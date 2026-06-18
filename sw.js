@@ -1,4 +1,4 @@
-const cacheName = 'sushi-kcal-v11';
+const cacheName = 'sushi-kcal-v12';
 const assets = [
   './',
   './index.html',

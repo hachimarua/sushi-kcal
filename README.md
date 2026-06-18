@@ -53,7 +53,7 @@ node tools/extract-menu-data.mjs
 
 ## アイコン更新
 
-ホーム画面用アイコンは Pillow で生成しています。
+ホーム画面用アイコンは `icons/icon-source.png` から Pillow で各サイズにリサイズしています。
 
 ```bash
 python3 tools/generate-app-icons.py
