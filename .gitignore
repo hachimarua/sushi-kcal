@@ -1,4 +1,5 @@
 dist/
+sushi-kcal-dist.zip
 tools/__pycache__/
 data/*.html
 data/menu-items.json
