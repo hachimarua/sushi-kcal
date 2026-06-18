@@ -1,0 +1,5 @@
+dist/
+tools/__pycache__/
+data/*.html
+data/menu-items.json
+.DS_Store

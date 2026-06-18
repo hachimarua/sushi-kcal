@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#fff4e2">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="すしkcal">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="format-detection" content="telephone=no">
+    <title>すしkcal</title>
+    <meta name="description" content="スシローとくら寿司のカロリーを外食中にすばやく合計する個人用PWA。">
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="apple-touch-icon" href="icons/icon-180.png">
+    <link rel="stylesheet" href="styles.css">
+    <script src="data/menu-items.js"></script>
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="app-kicker" id="appKicker">MealTracker QuickAdd helper</p>
+          <h1 id="appTitle">すしkcal</h1>
+        </div>
+        <div class="top-actions">
+          <button class="ghost-button" id="changeStoreButton" type="button">店を変更</button>
+          <button class="ghost-button" id="clearButton" type="button">リセット</button>
+        </div>
+      </header>
+
+      <section class="version-select" id="versionSelect" aria-label="お店を選択">
+        <div class="noren" aria-hidden="true">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <div class="version-lede">
+          <p class="welcome-copy">いらっしゃいませ!</p>
+          <h2>今日はどちらのお店ですか？</h2>
+          <p>お店ごとに分けて計算します。暖簾をくぐる気分でどうぞ。</p>
+        </div>
+        <div class="version-grid">
+          <button class="version-button sushiro-card" type="button" data-store="sushiro">
+            <span class="shop-logo sushiro-logo" aria-hidden="true">S</span>
+            <span class="shop-name">スシロー</span>
+            <strong>入店</strong>
+          </button>
+          <button class="version-button kura-card" type="button" data-store="kura">
+            <span class="shop-logo kura-logo" aria-hidden="true">K</span>
+            <span class="shop-name">くら寿司</span>
+            <strong>入店</strong>
+          </button>
+        </div>
+      </section>
+
+      <div id="calculatorView">
+        <section class="search-panel">
+          <label for="searchInput">ネタ名</label>
+          <div class="search-row">
+            <input id="searchInput" type="search" inputmode="search" autocomplete="off" placeholder="まぐろ、いか、茶碗蒸し">
+            <button id="voiceClearButton" type="button" aria-label="検索語を消す">×</button>
+          </div>
+          <div class="quick-chips" id="quickChips" aria-label="よく使う検索語"></div>
+        </section>
+
+        <section class="results-section" aria-live="polite">
+          <div class="section-head">
+            <h2 id="resultsTitle">候補</h2>
+            <span id="dataFreshness"></span>
+          </div>
+          <div class="results-list" id="resultsList"></div>
+        </section>
+
+        <section class="cart-section">
+          <div class="section-head">
+            <h2>今日の皿</h2>
+            <span id="plateComment">まだ皿は空です</span>
+          </div>
+          <div class="plate-stage" aria-hidden="true">
+            <div class="plate-stack" id="plateStack"></div>
+          </div>
+          <div class="cart-list" id="cartList"></div>
+        </section>
+      </div>
+    </main>
+
+    <aside class="total-bar" aria-label="合計とMealTracker転記">
+      <div class="total-copy">
+        <span id="copyName">スシロー</span>
+        <span id="copyCalories">0 kcal</span>
+      </div>
+      <div class="total-actions">
+        <button id="copyNameButton" type="button">名前</button>
+        <button id="copyCaloriesButton" type="button">kcal</button>
+        <button id="copySummaryButton" type="button">まとめ</button>
+      </div>
+    </aside>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  </body>
+</html>

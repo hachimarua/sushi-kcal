@@ -1,0 +1,11 @@
+{
+  "name": "sushi-kcal",
+  "version": "0.3.0",
+  "private": true,
+  "description": "スシローとくら寿司のカロリーをすばやく合計する個人用PWA",
+  "scripts": {
+    "build": "node tools/build-public.mjs",
+    "check": "node --check app.js && node --check sw.js && node --check tools/extract-menu-data.mjs && node --check tools/build-public.mjs",
+    "serve": "python3 -m http.server 8765"
+  }
+}
