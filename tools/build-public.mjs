@@ -6,6 +6,7 @@ const files = [
   'index.html',
   'styles.css',
   'app.js',
+  'preferences.mjs',
   'sw.js',
   'manifest.webmanifest',
   'data/menu-items.js',

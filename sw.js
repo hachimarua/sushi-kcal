@@ -1,9 +1,10 @@
-const cacheName = 'sushi-kcal-v12';
+const cacheName = 'sushi-kcal-v13';
 const assets = [
   './',
   './index.html',
   './styles.css',
   './app.js',
+  './preferences.mjs',
   './manifest.webmanifest',
   './icons/icon-180.png',
   './icons/icon-192.png',

@@ -7,6 +7,7 @@
 - 起動時にスシロー / くら寿司を選択
 - ネタ名検索
 - タップで皿に追加
+- 選択回数に応じて、よく食べる商品を上位表示
 - 個数変更
 - 合計kcal表示
 - 3D風ホーム画面アイコン
@@ -42,12 +43,20 @@ npm run serve
 ## データ更新
 
 公式メニューHTMLを取得してから抽出スクリプトを実行します。
+スシローは普段使う栗東小柿店、くら寿司は全店舗・西日本・九州の商品を収録します。
 
 ```bash
-curl -L -o data/sushiro.html 'https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1'
+curl -L -o data/sushiro.html 'https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449'
 curl -L -o data/kura.html 'https://www.kurasushi.co.jp/menu/'
 node tools/extract-menu-data.mjs
 ```
+
+## よく食べる順
+
+- 商品の追加回数は、この端末のブラウザ内にだけ保存します。
+- 「リセット」は今回の皿だけを空にし、選択回数は残します。
+- 使用頻度の低い商品も、検索すれば表示できます。
+- Safariのサイトデータを削除すると、選択回数も消えます。
 
 生成される `data/menu-items.js` がアプリで読み込まれる同梱データです。
 

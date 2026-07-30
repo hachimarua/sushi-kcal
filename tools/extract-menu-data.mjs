@@ -3,6 +3,8 @@ import path from 'node:path';
 
 const root = path.resolve(import.meta.dirname, '..');
 const capturedAt = new Date().toISOString().slice(0, 10);
+const sushiroSourceUrl = 'https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449';
+const kuraSourceUrl = 'https://www.kurasushi.co.jp/menu/';
 
 function text(html) {
   return html
@@ -48,9 +50,9 @@ function unique(items) {
       ? { ...item, duplicateCount: existing.duplicateCount + 1 }
       : { ...existing, duplicateCount: existing.duplicateCount + 1 });
   }
-  return [...map.values()].map((item, index) => ({
+  return [...map.values()].map((item) => ({
     ...item,
-    id: `${item.chain}-${String(index + 1).padStart(4, '0')}-${slug(item.name + item.calorieText)}`,
+    id: `${item.chain}-${slug(item.name)}`,
   }));
 }
 
@@ -81,7 +83,7 @@ function parseSushiro() {
         calories,
         calorieText,
         perUnit: /あたり/.test(calorieText),
-        sourceUrl: 'https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1',
+        sourceUrl: sushiroSourceUrl,
         capturedAt,
       });
     }
@@ -103,8 +105,11 @@ function parseKura() {
       const summary = block.match(/<ul class="menu-summary">([\s\S]*?)<\/ul>/)?.[1] || '';
       const priceText = text(summary.match(/<p>([^<]*円[^<]*)<\/p>/)?.[1] || '');
       const calorieText = text(summary.match(/<p>([^<]*kcal)<\/p>/)?.[1] || '');
+      const area = text(
+        summary.match(/<p>【提供エリア】<\/p>\s*<p>([\s\S]*?)<\/p>/)?.[1] || '全店舗',
+      );
       const calories = calorieFrom(calorieText);
-      if (!name || calories == null) continue;
+      if (!name || calories == null || area === '東日本') continue;
       items.push({
         chain: 'kura',
         chainLabel: 'くら寿司',
@@ -113,8 +118,9 @@ function parseKura() {
         priceText,
         calories,
         calorieText,
+        area,
         perUnit: /あたり/.test(calorieText),
-        sourceUrl: 'https://www.kurasushi.co.jp/menu/',
+        sourceUrl: kuraSourceUrl,
         capturedAt,
       });
     }
@@ -130,14 +136,16 @@ const payload = {
     {
       id: 'sushiro',
       name: 'スシロー',
-      sourceUrl: 'https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1',
+      sourceUrl: sushiroSourceUrl,
       capturedAt,
+      note: '栗東小柿店',
     },
     {
       id: 'kura',
       name: 'くら寿司',
-      sourceUrl: 'https://www.kurasushi.co.jp/menu/',
+      sourceUrl: kuraSourceUrl,
       capturedAt,
+      note: '全店舗・西日本・九州',
     },
   ],
   items: [...parseSushiro(), ...parseKura()],

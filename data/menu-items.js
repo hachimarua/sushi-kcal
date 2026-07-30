@@ -1,18 +1,20 @@
 window.SUSHI_MENU_DATA = {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T03:47:27.524Z",
+  "generatedAt": "2026-07-30T06:21:39.672Z",
   "stores": [
     {
       "id": "sushiro",
       "name": "スシロー",
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18"
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "note": "栗東小柿店"
     },
     {
       "id": "kura",
       "name": "くら寿司",
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18"
+      "capturedAt": "2026-07-30",
+      "note": "全店舗・西日本・九州"
     }
   ],
   "items": [
@@ -20,449 +22,309 @@ window.SUSHI_MENU_DATA = {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "フェア商品",
-      "name": "ジャンボとろサーモン",
+      "name": "大切りサーモン",
       "priceText": "110円(税込)",
-      "calories": 77,
-      "calorieText": "77kcal",
+      "calories": 104,
+      "calorieText": "104kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0001-9pbckb"
+      "id": "sushiro-14qx2yx"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "フェア商品",
-      "name": "天然あかすえび包み",
+      "name": "大切りうなぎ",
+      "priceText": "110円(税込)",
+      "calories": 76,
+      "calorieText": "76kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-9kuv97"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "フェア商品",
+      "name": "むらさきいかゲソ軍艦",
       "priceText": "120円(税込)",
-      "calories": 43,
-      "calorieText": "43kcal",
+      "calories": 75,
+      "calorieText": "75kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0002-132sidf"
+      "id": "sushiro-11bbxlv"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "フェア商品",
-      "name": "サラダ3貫盛り",
+      "name": "うな玉巻",
       "priceText": "120円(税込)",
-      "calories": 175,
-      "calorieText": "175kcal",
+      "calories": 98,
+      "calorieText": "98kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0003-m7mfhy"
+      "id": "sushiro-2abf29"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "フェア商品",
-      "name": "倍切り！うなぎの蒲焼き",
-      "priceText": "180円(税込)",
-      "calories": 154,
-      "calorieText": "154kcal",
+      "name": "合鴨オニオンガーリックペッパー",
+      "priceText": "140円(税込)",
+      "calories": 126,
+      "calorieText": "126kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0004-8oplca"
+      "id": "sushiro-1dslc05"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "フェア商品",
-      "name": "肉のチーズマヨ炙り3貫盛り",
-      "priceText": "200円(税込)",
-      "calories": 234,
-      "calorieText": "234kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0005-yf65cp"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "フェア商品",
-      "name": "グリルチキン 七味おろしポン酢",
-      "priceText": "170円(税込)",
+      "name": "こだわりハンバーグにぎり",
+      "priceText": "140円(税込)",
       "calories": 138,
       "calorieText": "138kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0006-1px8b7u"
+      "id": "sushiro-1rpr6mo"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "フェア商品",
-      "name": "スシロー海鮮巻き重ね（夏）",
-      "priceText": "180円(税込)",
-      "calories": 86,
-      "calorieText": "86kcal",
+      "name": "たい",
+      "priceText": "150円(税込)",
+      "calories": 87,
+      "calorieText": "87kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0007-1xb9rbc"
+      "id": "sushiro-14s94wu"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "フェア商品",
-      "name": "アボカドオニオンマヨ3貫盛り",
+      "name": "炙り豚しゃぶ 七味おろしポン酢",
+      "priceText": "200円(税込)",
+      "calories": 136,
+      "calorieText": "136kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-s43a2a"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "フェア商品",
+      "name": "ガーリックオニオンマヨ3貫盛り",
       "priceText": "260円(税込)",
-      "calories": 195,
-      "calorieText": "195kcal",
+      "calories": 174,
+      "calorieText": "174kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0008-1g3m0uo"
+      "id": "sushiro-f17e12"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "フェア商品",
-      "name": "赤貝 梅しそかつお",
-      "priceText": "260円(税込)",
-      "calories": 71,
-      "calorieText": "71kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0009-1y2we1j"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "フェア商品",
-      "name": "青森産 生サーモン食べ比べ",
-      "priceText": "280円(税込)",
-      "calories": 107,
-      "calorieText": "107kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0010-he7d6z"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "フェア商品",
-      "name": "店内殻剥き 天然車えび",
-      "priceText": "360円(税込)",
-      "calories": 53,
-      "calorieText": "53kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0011-ugjtj5"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "フェア商品",
-      "name": "特大えび天巻 特製マヨソースがけ",
-      "priceText": "450円(税込)",
-      "calories": 376,
-      "calorieText": "376kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0012-1qxcoq"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "フェア商品",
-      "name": "貝づくし5貫盛り",
-      "priceText": "680円(税込)",
-      "calories": 194,
-      "calorieText": "194kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0013-h2tod1"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "フェア商品",
-      "name": "冷製茶碗蒸し 梅みぞれあんかけ",
-      "priceText": "260円(税込)",
-      "calories": 84,
-      "calorieText": "84kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 2,
-      "id": "sushiro-0014-11pqrmb"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "フェア商品",
-      "name": "モッツァレラチーズ天ぷら 塩はちみつがけ",
-      "priceText": "300円(税込)",
-      "calories": 250,
-      "calorieText": "250kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0015-1khkgnv"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "フェア商品",
-      "name": "夏の山海の幸 天ぷら盛り（えび天）",
-      "priceText": "430円(税込)",
-      "calories": 263,
-      "calorieText": "263kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0016-1vz6nxj"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "フェア商品",
-      "name": "夏の山海の幸 天ぷら盛り（上えび天）",
+      "name": "鶏ガラ醤油 中華そば",
       "priceText": "480円(税込)",
-      "calories": 298,
-      "calorieText": "298kcal",
+      "calories": 251,
+      "calorieText": "251kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0017-18zgw7"
+      "id": "sushiro-8u8pgz"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "フェア商品",
-      "name": "プリンアラモードパフェ",
-      "priceText": "380円(税込)",
-      "calories": 261,
-      "calorieText": "261kcal",
+      "name": "茶碗蒸し エビチリのせ",
+      "priceText": "350円(税込)",
+      "calories": 149,
+      "calorieText": "149kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0018-1yhigr8"
+      "id": "sushiro-500pqk"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "フェア商品",
-      "name": "老舗茶舗のお抹茶わらび餅パフェ",
-      "priceText": "430円(税込)",
-      "calories": 227,
-      "calorieText": "227kcal",
+      "name": "かつお出汁香る唐揚げ",
+      "priceText": "390円(税込)",
+      "calories": 426,
+      "calorieText": "426kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0019-19ni6v6"
+      "id": "sushiro-3z113b"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "フェア商品",
-      "name": "飲むお抹茶ッペ",
-      "priceText": "300円(税込)",
-      "calories": 110,
-      "calorieText": "110kcal",
+      "name": "第1弾 ハローキティ コラボピック付き マーラー風びん長まぐろ 揚げネギ添え",
+      "priceText": "250円(税込)",
+      "calories": 108,
+      "calorieText": "108kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0020-4xgmae"
+      "id": "sushiro-dvmvuk"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "フェア商品",
-      "name": "半額！ペプシコーラ",
-      "priceText": "100円(税込)",
+      "name": "第1弾 ハローキティ コラボピック付き いか梅しそ",
+      "priceText": "250円(税込)",
+      "calories": 73,
+      "calorieText": "73kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-1gl1vdh"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "フェア商品",
+      "name": "第1弾 ハローキティ コラボピック付き えび＋ねぎまぐろ包み",
+      "priceText": "250円(税込)",
+      "calories": 99,
+      "calorieText": "99kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-14kh879"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "フェア商品",
+      "name": "ハローキティ コラボファスナーポーチ付き つくローセット",
+      "priceText": "720円(税込)",
+      "calories": 198,
+      "calorieText": "198kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-1q65p3d"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "フェア商品",
+      "name": "第1弾 ハローキティ コラボステッカー付き りんごのミルクレープメルバ",
+      "priceText": "350円(税込)",
+      "calories": 186,
+      "calorieText": "186kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-6dz5wz"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "フェア商品",
+      "name": "第1弾 ハローキティ コラボマスコット付き ペプシコーラ",
+      "priceText": "1,350円(税込)",
       "calories": 48,
       "calorieText": "100mlあたり48kcal",
       "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0021-1tv19sr"
+      "id": "sushiro-gx8jg0"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "フェア商品",
-      "name": "半額！ポップメロンソーダ",
-      "priceText": "100円(税込)",
+      "name": "第1弾 ハローキティ コラボマスコット付き ポップメロンソーダ",
+      "priceText": "1,350円(税込)",
       "calories": 48,
       "calorieText": "100mlあたり48kcal",
       "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0022-awlmts"
+      "id": "sushiro-1d2by7t"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "フェア商品",
-      "name": "半額！さわやか白ぶどう",
-      "priceText": "100円(税込)",
-      "calories": 37,
-      "calorieText": "100mlあたり37kcal",
-      "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0023-pkhxm"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "フェア商品",
-      "name": "半額！さわやか白ぶどうソーダ",
-      "priceText": "100円(税込)",
-      "calories": 37,
-      "calorieText": "100mlあたり37kcal",
-      "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0024-fslb1t"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "フェア商品",
-      "name": "半額！ホワイトウォーター",
-      "priceText": "100円(税込)",
+      "name": "第1弾 ハローキティ コラボマスコット付き ホワイトソーダ",
+      "priceText": "1,350円(税込)",
       "calories": 52,
       "calorieText": "100mlあたり52kcal",
       "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0025-tog4fu"
+      "id": "sushiro-qg89ej"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "フェア商品",
-      "name": "半額！ホワイトソーダ",
-      "priceText": "100円(税込)",
+      "name": "第1弾 ハローキティ コラボマスコット付き ホワイトウォーター",
+      "priceText": "1,350円(税込)",
       "calories": 52,
       "calorieText": "100mlあたり52kcal",
       "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0026-1xfcs1"
+      "id": "sushiro-1sclz44"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "フェア商品",
-      "name": "半額！ウーロン茶",
-      "priceText": "100円(税込)",
+      "name": "第1弾 ハローキティ コラボマスコット付き ウーロン茶",
+      "priceText": "1,350円(税込)",
       "calories": 1,
       "calorieText": "100mlあたり1kcal",
       "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0027-tgm94s"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "フェア商品",
-      "name": "上えび天のめはりにぎり",
-      "priceText": "160円（税込）",
-      "calories": 132,
-      "calorieText": "132kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0028-br9o6p"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "フェア商品",
-      "name": "みそカツ風ロール",
-      "priceText": "200円（税込）",
-      "calories": 179,
-      "calorieText": "179kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0029-3insw8"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "フェア商品",
-      "name": "いかフライのレモンだれにぎり",
-      "priceText": "200円（税込）",
-      "calories": 163,
-      "calorieText": "163kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0030-1rtwjin"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "フェア商品",
-      "name": "スシロー流ひつまぶし",
-      "priceText": "260円（税込）",
-      "calories": 153,
-      "calorieText": "153kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0031-1oxrbxu"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "厳選まぐろ赤身",
-      "priceText": "120円(税込)",
-      "calories": 78,
-      "calorieText": "78kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0032-qxh2ey"
+      "id": "sushiro-1dem2nq"
     },
     {
       "chain": "sushiro",
@@ -473,24 +335,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 83,
       "calorieText": "83kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0033-l7y8op"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "サーモン",
-      "priceText": "120円(税込)",
-      "calories": 91,
-      "calorieText": "91kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0034-vfh8um"
+      "id": "sushiro-8ppll7"
     },
     {
       "chain": "sushiro",
@@ -501,10 +349,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 45,
       "calorieText": "45kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0035-16metgi"
+      "id": "sushiro-16w8n2u"
     },
     {
       "chain": "sushiro",
@@ -515,24 +363,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 72,
       "calorieText": "72kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0036-12erw8y"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "甘えび",
-      "priceText": "120円(税込)",
-      "calories": 70,
-      "calorieText": "70kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0037-1mmaoh2"
+      "id": "sushiro-wjez0s"
     },
     {
       "chain": "sushiro",
@@ -543,10 +377,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 70,
       "calorieText": "70kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0038-1mhizwg"
+      "id": "sushiro-s4g1oo"
     },
     {
       "chain": "sushiro",
@@ -557,10 +391,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 66,
       "calorieText": "66kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0039-1tfk2wu"
+      "id": "sushiro-1piwaxx"
     },
     {
       "chain": "sushiro",
@@ -571,10 +405,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 122,
       "calorieText": "122kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0040-4yf3og"
+      "id": "sushiro-1oueq24"
     },
     {
       "chain": "sushiro",
@@ -585,10 +419,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 106,
       "calorieText": "106kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0041-1foxwml"
+      "id": "sushiro-1e984dl"
     },
     {
       "chain": "sushiro",
@@ -599,10 +433,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 108,
       "calorieText": "108kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0042-104abn3"
+      "id": "sushiro-15kf0wd"
     },
     {
       "chain": "sushiro",
@@ -613,24 +447,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 77,
       "calorieText": "77kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0043-1izwoin"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "まぐろ+たまご",
-      "priceText": "120円(税込)",
-      "calories": 100,
-      "calorieText": "100kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0044-16eipqe"
+      "id": "sushiro-1m264d2"
     },
     {
       "chain": "sushiro",
@@ -641,10 +461,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 80,
       "calorieText": "80kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0045-t7kkfi"
+      "id": "sushiro-1cqfvb1"
     },
     {
       "chain": "sushiro",
@@ -655,10 +475,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 106,
       "calorieText": "106kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0046-1yv7tfn"
+      "id": "sushiro-1w4tu8v"
     },
     {
       "chain": "sushiro",
@@ -669,24 +489,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 81,
       "calorieText": "81kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0047-19hbiyj"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "炙り赤えび塩レモン",
-      "priceText": "140円(税込)",
-      "calories": 46,
-      "calorieText": "46kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0048-spqzn0"
+      "id": "sushiro-5l4pjn"
     },
     {
       "chain": "sushiro",
@@ -697,10 +503,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 70,
       "calorieText": "70kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0049-1ci63zb"
+      "id": "sushiro-1k4f18z"
     },
     {
       "chain": "sushiro",
@@ -711,10 +517,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 71,
       "calorieText": "71kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0050-7i1zt3"
+      "id": "sushiro-th1zhk"
     },
     {
       "chain": "sushiro",
@@ -725,38 +531,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 97,
       "calorieText": "97kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0051-1nsuwoz"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "厳選まぐろ赤身食べ比べ",
-      "priceText": "140円(税込)",
-      "calories": 79,
-      "calorieText": "79kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0052-1kbbfna"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "香味野菜香る 一本釣りかつお",
-      "priceText": "",
-      "calories": 95,
-      "calorieText": "95kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0053-17r2rjy"
+      "id": "sushiro-1rwjy6k"
     },
     {
       "chain": "sushiro",
@@ -767,10 +545,24 @@ window.SUSHI_MENU_DATA = {
       "calories": 118,
       "calorieText": "118kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0054-1rixaik"
+      "id": "sushiro-1yu8lkv"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "にぎり",
+      "name": "甘えび",
+      "priceText": "140円(税込)",
+      "calories": 70,
+      "calorieText": "70kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-d00gzu"
     },
     {
       "chain": "sushiro",
@@ -781,10 +573,24 @@ window.SUSHI_MENU_DATA = {
       "calories": 68,
       "calorieText": "68kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0055-e8xv3q"
+      "id": "sushiro-94yy43"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "にぎり",
+      "name": "炙り赤えび塩レモン",
+      "priceText": "140円(税込)",
+      "calories": 46,
+      "calorieText": "46kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-175ymup"
     },
     {
       "chain": "sushiro",
@@ -795,10 +601,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 103,
       "calorieText": "103kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0056-ytwkd5"
+      "id": "sushiro-bn7hfk"
     },
     {
       "chain": "sushiro",
@@ -809,10 +615,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 103,
       "calorieText": "103kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0057-1vxdfug"
+      "id": "sushiro-7y8207"
     },
     {
       "chain": "sushiro",
@@ -823,24 +629,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 117,
       "calorieText": "117kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0058-uoldru"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "えび天にぎり",
-      "priceText": "140円(税込)",
-      "calories": 142,
-      "calorieText": "142kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0059-1kpumz6"
+      "id": "sushiro-kwqfqe"
     },
     {
       "chain": "sushiro",
@@ -851,10 +643,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 71,
       "calorieText": "71kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0060-sc7dh"
+      "id": "sushiro-1qanive"
     },
     {
       "chain": "sushiro",
@@ -865,10 +657,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 70,
       "calorieText": "70kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0061-19wmcg9"
+      "id": "sushiro-vcto95"
     },
     {
       "chain": "sushiro",
@@ -879,10 +671,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 72,
       "calorieText": "72kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0062-1p689cv"
+      "id": "sushiro-1jtl091"
     },
     {
       "chain": "sushiro",
@@ -893,10 +685,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 88,
       "calorieText": "88kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0063-13sny48"
+      "id": "sushiro-p2k0s7"
     },
     {
       "chain": "sushiro",
@@ -907,10 +699,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 144,
       "calorieText": "144kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0064-2trakx"
+      "id": "sushiro-tq13pv"
     },
     {
       "chain": "sushiro",
@@ -921,24 +713,24 @@ window.SUSHI_MENU_DATA = {
       "calories": 126,
       "calorieText": "126kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0065-1dvovx1"
+      "id": "sushiro-fxgc7"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "にぎり",
-      "name": "こだわりハンバーグにぎり",
+      "name": "牛塩カルビ",
       "priceText": "140円(税込)",
-      "calories": 138,
-      "calorieText": "138kcal",
+      "calories": 139,
+      "calorieText": "139kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0066-1fwvzhf"
+      "id": "sushiro-1nxaa5o"
     },
     {
       "chain": "sushiro",
@@ -949,24 +741,24 @@ window.SUSHI_MENU_DATA = {
       "calories": 95,
       "calorieText": "95kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0067-31avg3"
+      "id": "sushiro-1nz0pme"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "にぎり",
-      "name": "まぐろ 七味おろしポン酢",
+      "name": "厳選まぐろ赤身",
       "priceText": "150円(税込)",
-      "calories": 90,
-      "calorieText": "90kcal",
+      "calories": 78,
+      "calorieText": "78kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0068-1c1ciye"
+      "id": "sushiro-1yddzqe"
     },
     {
       "chain": "sushiro",
@@ -977,10 +769,52 @@ window.SUSHI_MENU_DATA = {
       "calories": 97,
       "calorieText": "97kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0069-1u9i7rt"
+      "id": "sushiro-32boqu"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "にぎり",
+      "name": "〆さば",
+      "priceText": "150円(税込)",
+      "calories": 111,
+      "calorieText": "111kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-dheue4"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "にぎり",
+      "name": "〆さば(ごま・ネギ)",
+      "priceText": "150円(税込)",
+      "calories": 113,
+      "calorieText": "113kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-lutgqv"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "にぎり",
+      "name": "えび天にぎり",
+      "priceText": "150円(税込)",
+      "calories": 142,
+      "calorieText": "142kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-cemjck"
     },
     {
       "chain": "sushiro",
@@ -991,24 +825,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 99,
       "calorieText": "99kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0070-nw7psd"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "まぐろのサラダ寿司",
-      "priceText": "160円(税込)",
-      "calories": 69,
-      "calorieText": "69kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0071-1n31e6b"
+      "id": "sushiro-h6trus"
     },
     {
       "chain": "sushiro",
@@ -1019,10 +839,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 75,
       "calorieText": "75kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0072-dh4w7v"
+      "id": "sushiro-1g9zsjk"
     },
     {
       "chain": "sushiro",
@@ -1033,10 +853,24 @@ window.SUSHI_MENU_DATA = {
       "calories": 84,
       "calorieText": "84kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0073-tko4d4"
+      "id": "sushiro-a56pqr"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "にぎり",
+      "name": "グリルチキン 七味おろしポン酢",
+      "priceText": "170円(税込)",
+      "calories": 138,
+      "calorieText": "138kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-15fmyif"
     },
     {
       "chain": "sushiro",
@@ -1047,10 +881,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 69,
       "calorieText": "69kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0074-1jr58xa"
+      "id": "sushiro-1iq9tpg"
     },
     {
       "chain": "sushiro",
@@ -1061,24 +895,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 79,
       "calorieText": "79kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0075-qo47pu"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "マーラー風まぐろ揚げネギ添え",
-      "priceText": "180円(税込)",
-      "calories": 102,
-      "calorieText": "102kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0076-12jfogr"
+      "id": "sushiro-aqm4q1"
     },
     {
       "chain": "sushiro",
@@ -1089,24 +909,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 83,
       "calorieText": "83kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0077-3ctz4n"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "マーラー風びん長揚げネギ添え",
-      "priceText": "180円(税込)",
-      "calories": 107,
-      "calorieText": "107kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0078-o9unqi"
+      "id": "sushiro-16dyh8d"
     },
     {
       "chain": "sushiro",
@@ -1117,10 +923,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 67,
       "calorieText": "67kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0079-16scl04"
+      "id": "sushiro-x6xpk4"
     },
     {
       "chain": "sushiro",
@@ -1131,10 +937,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 103,
       "calorieText": "103kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0080-349jbn"
+      "id": "sushiro-5noqgy"
     },
     {
       "chain": "sushiro",
@@ -1145,10 +951,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 104,
       "calorieText": "104kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0081-onzvvy"
+      "id": "sushiro-12p7qua"
     },
     {
       "chain": "sushiro",
@@ -1159,10 +965,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 140,
       "calorieText": "140kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0082-1ikcyv"
+      "id": "sushiro-w4nb7l"
     },
     {
       "chain": "sushiro",
@@ -1173,10 +979,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 122,
       "calorieText": "122kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0083-13xb4yj"
+      "id": "sushiro-1q2xii5"
     },
     {
       "chain": "sushiro",
@@ -1187,24 +993,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 113,
       "calorieText": "113kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0084-2uaozc"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "活〆真鯛",
-      "priceText": "180円(税込)",
-      "calories": 87,
-      "calorieText": "87kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0085-1uc3lug"
+      "id": "sushiro-pnhyio"
     },
     {
       "chain": "sushiro",
@@ -1215,10 +1007,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 83,
       "calorieText": "83kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0086-48dne3"
+      "id": "sushiro-t5bih5"
     },
     {
       "chain": "sushiro",
@@ -1229,10 +1021,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 133,
       "calorieText": "133kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0087-koxdkm"
+      "id": "sushiro-8vd77o"
     },
     {
       "chain": "sushiro",
@@ -1243,10 +1035,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 134,
       "calorieText": "134kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0088-55ywcp"
+      "id": "sushiro-al13gy"
     },
     {
       "chain": "sushiro",
@@ -1257,10 +1049,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 46,
       "calorieText": "46kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0089-1basw22"
+      "id": "sushiro-11ezlyz"
     },
     {
       "chain": "sushiro",
@@ -1271,10 +1063,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 61,
       "calorieText": "61kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0090-8agt4p"
+      "id": "sushiro-1yna0v3"
     },
     {
       "chain": "sushiro",
@@ -1282,13 +1074,13 @@ window.SUSHI_MENU_DATA = {
       "category": "にぎり",
       "name": "いか梅しそ",
       "priceText": "180円(税込)",
-      "calories": 72,
-      "calorieText": "72kcal",
+      "calories": 73,
+      "calorieText": "73kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0091-17e2rzl"
+      "id": "sushiro-1ppr5l3"
     },
     {
       "chain": "sushiro",
@@ -1299,10 +1091,24 @@ window.SUSHI_MENU_DATA = {
       "calories": 72,
       "calorieText": "72kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0092-1je7cj5"
+      "id": "sushiro-1a21l3b"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "にぎり",
+      "name": "うなぎの蒲焼き",
+      "priceText": "180円(税込)",
+      "calories": 102,
+      "calorieText": "102kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-1bbwho6"
     },
     {
       "chain": "sushiro",
@@ -1313,10 +1119,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 54,
       "calorieText": "54kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0093-upvinn"
+      "id": "sushiro-9ktnwh"
     },
     {
       "chain": "sushiro",
@@ -1327,10 +1133,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 74,
       "calorieText": "74kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0094-cigfnx"
+      "id": "sushiro-1cy6ant"
     },
     {
       "chain": "sushiro",
@@ -1341,10 +1147,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 108,
       "calorieText": "108kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0095-9clim5"
+      "id": "sushiro-15igv47"
     },
     {
       "chain": "sushiro",
@@ -1355,10 +1161,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 139,
       "calorieText": "139kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0096-jgos9"
+      "id": "sushiro-1hv32xz"
     },
     {
       "chain": "sushiro",
@@ -1369,38 +1175,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 138,
       "calorieText": "138kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0097-j6cl25"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "活〆真鯛 食べ比べ",
-      "priceText": "200円(税込)",
-      "calories": 87,
-      "calorieText": "87kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0098-1okn4rr"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "上えび天にぎり",
-      "priceText": "200円(税込)",
-      "calories": 178,
-      "calorieText": "178kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0099-1euyw83"
+      "id": "sushiro-2afmq2"
     },
     {
       "chain": "sushiro",
@@ -1411,24 +1189,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 70,
       "calorieText": "70kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0100-qrm1vq"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "つぶ貝",
-      "priceText": "200円(税込)",
-      "calories": 67,
-      "calorieText": "67kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0101-ofkzbq"
+      "id": "sushiro-1nro2i2"
     },
     {
       "chain": "sushiro",
@@ -1439,164 +1203,66 @@ window.SUSHI_MENU_DATA = {
       "calories": 154,
       "calorieText": "154kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0102-7i12r2"
+      "id": "sushiro-1iccb9"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "にぎり",
-      "name": "厳選 天然本鮪赤身",
-      "priceText": "",
-      "calories": 83,
-      "calorieText": "83kcal",
+      "name": "つぶ貝",
+      "priceText": "220円(税込)",
+      "calories": 67,
+      "calorieText": "67kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0103-lcgysg"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "店内仕込み 活〆はまち",
-      "priceText": "",
-      "calories": 107,
-      "calorieText": "107kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0104-1nv49ev"
+      "id": "sushiro-5ir4di"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "にぎり",
       "name": "活〆真鯛 七味おろしポン酢",
-      "priceText": "210円(税込)",
+      "priceText": "230円(税込)",
       "calories": 100,
       "calorieText": "100kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 2,
-      "id": "sushiro-0105-16bftzo"
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-1coujew"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "にぎり",
       "name": "つぶ貝食べ比べ",
-      "priceText": "220円(税込)",
+      "priceText": "240円(税込)",
       "calories": 68,
       "calorieText": "68kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0106-u578jw"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "店内酢〆あじ",
-      "priceText": "",
-      "calories": 80,
-      "calorieText": "80kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0107-19wgz5c"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "店内酢〆さば",
-      "priceText": "",
-      "calories": 96,
-      "calorieText": "96kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0108-bktg74"
+      "id": "sushiro-11ql93x"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "にぎり",
       "name": "活〆真鯛 煮切り醤油漬け",
-      "priceText": "240円(税込)",
+      "priceText": "260円(税込)",
       "calories": 88,
       "calorieText": "88kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 2,
-      "id": "sushiro-0109-auvwaa"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "香味野菜香る 店内酢〆あじ",
-      "priceText": "",
-      "calories": 80,
-      "calorieText": "80kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0110-1tj2d1w"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "香味野菜香る 店内酢〆さば",
-      "priceText": "",
-      "calories": 97,
-      "calorieText": "97kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0111-13144mj"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "店内仕込み 活〆真鯛",
-      "priceText": "",
-      "calories": 87,
-      "calorieText": "87kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0112-6bj4ee"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "特大赤えび 頭付き",
-      "priceText": "",
-      "calories": 75,
-      "calorieText": "75kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0113-122cxv5"
+      "id": "sushiro-wpdcgx"
     },
     {
       "chain": "sushiro",
@@ -1607,136 +1273,24 @@ window.SUSHI_MENU_DATA = {
       "calories": 111,
       "calorieText": "111kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0114-1bdg2w5"
+      "id": "sushiro-1qx04zp"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "にぎり",
-      "name": "店内切りうなぎ",
-      "priceText": "",
-      "calories": 123,
-      "calorieText": "123kcal",
+      "name": "赤貝 梅しそかつお",
+      "priceText": "260円(税込)",
+      "calories": 71,
+      "calorieText": "71kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0115-10n3z2p"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "店内殻剥き 炙り赤えび塩レモン",
-      "priceText": "",
-      "calories": 53,
-      "calorieText": "53kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0116-cagohx"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "店内殻剥きマーラー風赤えび",
-      "priceText": "",
-      "calories": 67,
-      "calorieText": "67kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0117-12sbcaa"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "タイラギ貝食べ比べ",
-      "priceText": "280円(税込)",
-      "calories": 86,
-      "calorieText": "86kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0118-11kmt16"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "店内仕込み 活〆真鯛食べ比べ",
-      "priceText": "",
-      "calories": 88,
-      "calorieText": "88kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0119-1th4zkk"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "店内殻むき 活あわび",
-      "priceText": "",
-      "calories": 35,
-      "calorieText": "35kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0120-yy0k4j"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "店内仕込み 活〆ひらめ",
-      "priceText": "",
-      "calories": 77,
-      "calorieText": "77kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0121-r28jyb"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "特ネタ大とろ",
-      "priceText": "360円(税込)",
-      "calories": 72,
-      "calorieText": "72kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0122-1vwqzmo"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "特ネタ大とろ焦がし醤油",
-      "priceText": "360円(税込)",
-      "calories": 73,
-      "calorieText": "73kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0123-1ntnj9v"
+      "id": "sushiro-m2vgxk"
     },
     {
       "chain": "sushiro",
@@ -1747,94 +1301,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 77,
       "calorieText": "77kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0124-9hxxys"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "厳選 天然本鮪大とろ",
-      "priceText": "",
-      "calories": 69,
-      "calorieText": "69kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0125-7b9f4d"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "厳選 天然本鮪大とろ焦がし醤油",
-      "priceText": "",
-      "calories": 69,
-      "calorieText": "69kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0126-1uh7luv"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "道頓堀店限定 鮮魚3貫盛り",
-      "priceText": "",
-      "calories": 162,
-      "calorieText": "162kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0127-vj38w1"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "店内仕込み 活赤貝",
-      "priceText": "",
-      "calories": 55,
-      "calorieText": "55kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0128-1x2i2y"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "ほたて3貫盛り",
-      "priceText": "",
-      "calories": 145,
-      "calorieText": "145kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0129-fv7hxb"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "にぎり",
-      "name": "ぷちローセット",
-      "priceText": "580円(税込)",
-      "calories": 264,
-      "calorieText": "264kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0130-5hvd5t"
+      "id": "sushiro-12l2cqt"
     },
     {
       "chain": "sushiro",
@@ -1842,13 +1312,27 @@ window.SUSHI_MENU_DATA = {
       "category": "にぎり",
       "name": "じぶんでつくローセット",
       "priceText": "580円(税込)",
-      "calories": 199,
-      "calorieText": "199kcal",
+      "calories": 198,
+      "calorieText": "198kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0131-gxhx8p"
+      "id": "sushiro-rvp7tl"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "にぎり",
+      "name": "ぷちローセット",
+      "priceText": "680円(税込)",
+      "calories": 264,
+      "calorieText": "264kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-18ps1a"
     },
     {
       "chain": "sushiro",
@@ -1859,10 +1343,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 108,
       "calorieText": "108kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0132-1rjvms8"
+      "id": "sushiro-1mqgy5w"
     },
     {
       "chain": "sushiro",
@@ -1873,24 +1357,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 90,
       "calorieText": "90kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0133-5h5j8k"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "軍艦・巻物",
-      "name": "まぐろユッケ軍艦 卵黄醤油がけ",
-      "priceText": "120円(税込)",
-      "calories": 97,
-      "calorieText": "97kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0134-1cxv0hv"
+      "id": "sushiro-gzctoi"
     },
     {
       "chain": "sushiro",
@@ -1901,10 +1371,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 109,
       "calorieText": "109kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0135-zfbcud"
+      "id": "sushiro-13tuybq"
     },
     {
       "chain": "sushiro",
@@ -1915,10 +1385,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 64,
       "calorieText": "64kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0136-1uikxo2"
+      "id": "sushiro-12i2pln"
     },
     {
       "chain": "sushiro",
@@ -1929,10 +1399,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 78,
       "calorieText": "78kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0137-ruvtcq"
+      "id": "sushiro-19cv892"
     },
     {
       "chain": "sushiro",
@@ -1943,10 +1413,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 114,
       "calorieText": "114kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0138-r52uge"
+      "id": "sushiro-13f9l5"
     },
     {
       "chain": "sushiro",
@@ -1957,10 +1427,24 @@ window.SUSHI_MENU_DATA = {
       "calories": 106,
       "calorieText": "106kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0139-hw7lel"
+      "id": "sushiro-1pjaas9"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "軍艦・巻物",
+      "name": "いかオクラめかぶ軍艦",
+      "priceText": "120円(税込)",
+      "calories": 70,
+      "calorieText": "70kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-1fj02ef"
     },
     {
       "chain": "sushiro",
@@ -1971,10 +1455,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 86,
       "calorieText": "86kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0140-1r7tnzd"
+      "id": "sushiro-1q8mess"
     },
     {
       "chain": "sushiro",
@@ -1985,24 +1469,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 136,
       "calorieText": "136kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0141-1g83is9"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "軍艦・巻物",
-      "name": "数の子松前漬け軍艦",
-      "priceText": "120円(税込)",
-      "calories": 84,
-      "calorieText": "84kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0142-1993qn"
+      "id": "sushiro-18fho4c"
     },
     {
       "chain": "sushiro",
@@ -2013,24 +1483,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 70,
       "calorieText": "70kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0143-13nnvrs"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "軍艦・巻物",
-      "name": "ミートボール軍艦",
-      "priceText": "120円(税込)",
-      "calories": 145,
-      "calorieText": "145kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0144-3aarb3"
+      "id": "sushiro-1nj0wdc"
     },
     {
       "chain": "sushiro",
@@ -2041,10 +1497,24 @@ window.SUSHI_MENU_DATA = {
       "calories": 158,
       "calorieText": "158kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0145-15xtjyf"
+      "id": "sushiro-uzvwnm"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "軍艦・巻物",
+      "name": "ミートボール軍艦",
+      "priceText": "120円(税込)",
+      "calories": 145,
+      "calorieText": "145kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-1j7d784"
     },
     {
       "chain": "sushiro",
@@ -2055,10 +1525,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 109,
       "calorieText": "109kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0146-70iivb"
+      "id": "sushiro-1x8rwu4"
     },
     {
       "chain": "sushiro",
@@ -2069,10 +1539,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 130,
       "calorieText": "130kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0147-178bf5j"
+      "id": "sushiro-1bn7g18"
     },
     {
       "chain": "sushiro",
@@ -2083,10 +1553,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 129,
       "calorieText": "129kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0148-1y66sq8"
+      "id": "sushiro-rusz8r"
     },
     {
       "chain": "sushiro",
@@ -2097,10 +1567,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 114,
       "calorieText": "114kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0149-1106tk7"
+      "id": "sushiro-1ijghu"
     },
     {
       "chain": "sushiro",
@@ -2111,10 +1581,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 115,
       "calorieText": "115kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0150-11a9pyd"
+      "id": "sushiro-zmccf5"
     },
     {
       "chain": "sushiro",
@@ -2125,10 +1595,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 100,
       "calorieText": "100kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0151-1ryeqec"
+      "id": "sushiro-1av9p08"
     },
     {
       "chain": "sushiro",
@@ -2139,10 +1609,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 174,
       "calorieText": "174kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0152-1rf2782"
+      "id": "sushiro-m9dpr"
     },
     {
       "chain": "sushiro",
@@ -2153,10 +1623,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 139,
       "calorieText": "139kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0153-11y51u4"
+      "id": "sushiro-8fk98g"
     },
     {
       "chain": "sushiro",
@@ -2167,10 +1637,24 @@ window.SUSHI_MENU_DATA = {
       "calories": 169,
       "calorieText": "169kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0154-1eugyyk"
+      "id": "sushiro-w78s4j"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "軍艦・巻物",
+      "name": "うずらフライ軍艦",
+      "priceText": "140円(税込)",
+      "calories": 159,
+      "calorieText": "159kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-1a0ksi9"
     },
     {
       "chain": "sushiro",
@@ -2181,24 +1665,66 @@ window.SUSHI_MENU_DATA = {
       "calories": 41,
       "calorieText": "41kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0155-so6yrf"
+      "id": "sushiro-togf8f"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "軍艦・巻物",
-      "name": "鉄火巻",
-      "priceText": "180円(税込)",
-      "calories": 169,
-      "calorieText": "169kcal",
+      "name": "海老フライ アボカドロール",
+      "priceText": "150円(税込)",
+      "calories": 136,
+      "calorieText": "136kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0156-1w6utgy"
+      "id": "sushiro-1lobsml"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "軍艦・巻物",
+      "name": "まぐろユッケ軍艦 卵黄醤油がけ",
+      "priceText": "180円(税込)",
+      "calories": 97,
+      "calorieText": "97kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-14nu2vg"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "軍艦・巻物",
+      "name": "数の子松前漬け軍艦",
+      "priceText": "180円(税込)",
+      "calories": 84,
+      "calorieText": "84kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-1vxo7g8"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "軍艦・巻物",
+      "name": "スシロー海鮮巻き重ね（夏）",
+      "priceText": "180円(税込)",
+      "calories": 86,
+      "calorieText": "86kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-1hz99jd"
     },
     {
       "chain": "sushiro",
@@ -2209,150 +1735,94 @@ window.SUSHI_MENU_DATA = {
       "calories": 185,
       "calorieText": "185kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0157-w9ezfd"
+      "id": "sushiro-1xpz2y6"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "軍艦・巻物",
-      "name": "上えび天一本手巻",
-      "priceText": "",
-      "calories": 173,
-      "calorieText": "173kcal",
+      "name": "鉄火巻",
+      "priceText": "200円(税込)",
+      "calories": 169,
+      "calorieText": "169kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0158-hej81h"
+      "id": "sushiro-lzu95"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "軍艦・巻物",
-      "name": "厳選まぐろ赤身ととろたく手巻",
-      "priceText": "360円(税込)",
-      "calories": 129,
-      "calorieText": "129kcal",
+      "name": "いくら軍艦",
+      "priceText": "260円(税込)",
+      "calories": 97,
+      "calorieText": "97kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0159-orzl1e"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "軍艦・巻物",
-      "name": "厳選 天然本鮪ねぎとろ手巻",
-      "priceText": "",
-      "calories": 122,
-      "calorieText": "122kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0160-1j8blvj"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "軍艦・巻物",
-      "name": "本ずわい蟹手巻",
-      "priceText": "",
-      "calories": 83,
-      "calorieText": "83kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0161-m8pgyr"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "軍艦・巻物",
-      "name": "厳選 天然本鮪アボカドすしロール",
-      "priceText": "",
-      "calories": 166,
-      "calorieText": "166kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0162-3u0l77"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "軍艦・巻物",
-      "name": "生サーモンアボカドすしロール",
-      "priceText": "",
-      "calories": 198,
-      "calorieText": "198kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0163-1ijtpl5"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "軍艦・巻物",
-      "name": "うなぎアボカドすしロール",
-      "priceText": "",
-      "calories": 217,
-      "calorieText": "217kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0164-1o1t1fw"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "軍艦・巻物",
-      "name": "濃厚生うに包み",
-      "priceText": "",
-      "calories": 41,
-      "calorieText": "41kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0165-1nodqua"
+      "id": "sushiro-1k4orxk"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "サイドメニュー",
-      "name": "スシロー コク旨まぐろ醤油ラーメン",
+      "name": "スシロー 鯛白湯ラーメン",
       "priceText": "450円(税込)",
-      "calories": 315,
-      "calorieText": "315kcal",
+      "calories": 249,
+      "calorieText": "249kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0166-3mclwf"
+      "id": "sushiro-19pvyvg"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "サイドメニュー",
-      "name": "スシロー コク旨まぐろ醤油ラーメン 煮玉子付",
+      "name": "スシロー 鯛白湯ラーメン 煮玉子付",
       "priceText": "550円(税込)",
-      "calories": 399,
-      "calorieText": "399kcal",
+      "calories": 334,
+      "calorieText": "334kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0167-1811336"
+      "id": "sushiro-1shqjol"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "サイドメニュー",
+      "name": "スシロー 貝塩ラーメン",
+      "priceText": "450円(税込)",
+      "calories": 247,
+      "calorieText": "247kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-1pghah7"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "サイドメニュー",
+      "name": "スシロー 貝塩ラーメン 煮玉子付",
+      "priceText": "550円(税込)",
+      "calories": 331,
+      "calorieText": "331kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-17onhes"
     },
     {
       "chain": "sushiro",
@@ -2363,80 +1833,38 @@ window.SUSHI_MENU_DATA = {
       "calories": 315,
       "calorieText": "315kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 2,
-      "id": "sushiro-0168-1yaox9"
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-bz0gkb"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "サイドメニュー",
       "name": "えび天うどん",
-      "priceText": "350円(税込)",
+      "priceText": "360円(税込)",
       "calories": 257,
       "calorieText": "257kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0169-g15ix0"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "サイドメニュー",
-      "name": "上えび天うどん",
-      "priceText": "400円(税込)",
-      "calories": 293,
-      "calorieText": "293kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 2,
-      "id": "sushiro-0170-aa3zac"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "サイドメニュー",
-      "name": "店内仕込みのかき揚げうどん",
-      "priceText": "",
-      "calories": 256,
-      "calorieText": "256kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0171-oiq39x"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "サイドメニュー",
-      "name": "かすうどん",
-      "priceText": "",
-      "calories": 285,
-      "calorieText": "285kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "sushiro-0172-emh9bd"
+      "id": "sushiro-1586cin"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "サイドメニュー",
       "name": "かけうどん",
-      "priceText": "200円(税込)",
+      "priceText": "220円(税込)",
       "calories": 194,
       "calorieText": "194kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 2,
-      "id": "sushiro-0173-1uvax22"
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-9ncu9h"
     },
     {
       "chain": "sushiro",
@@ -2447,66 +1875,52 @@ window.SUSHI_MENU_DATA = {
       "calories": 58,
       "calorieText": "58kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 2,
-      "id": "sushiro-0174-1it6ami"
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-6b2ius"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "サイドメニュー",
-      "name": "あおさと海苔の味噌汁",
-      "priceText": "220円(税込)",
-      "calories": 48,
-      "calorieText": "48kcal",
+      "name": "茄子の赤だし",
+      "priceText": "270円(税込)",
+      "calories": 65,
+      "calorieText": "65kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0175-1m7sf0g"
+      "id": "sushiro-x5mjt6"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "サイドメニュー",
       "name": "あさりの赤だし",
-      "priceText": "220円(税込)",
+      "priceText": "240円(税込)",
       "calories": 69,
       "calorieText": "69kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 2,
-      "id": "sushiro-0176-7c844v"
-    },
-    {
-      "chain": "sushiro",
-      "chainLabel": "スシロー",
-      "category": "サイドメニュー",
-      "name": "あさりの味噌汁",
-      "priceText": "220円(税込)",
-      "calories": 57,
-      "calorieText": "57kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0177-1qt1a7d"
+      "id": "sushiro-wq2f55"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "サイドメニュー",
       "name": "魚のアラの赤だし",
-      "priceText": "220円(税込)",
+      "priceText": "240円(税込)",
       "calories": 136,
       "calorieText": "136kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 2,
-      "id": "sushiro-0178-248n8c"
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-18x7r5f"
     },
     {
       "chain": "sushiro",
@@ -2517,10 +1931,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 152,
       "calorieText": "152kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0179-8yg6e9"
+      "id": "sushiro-1tstxgm"
     },
     {
       "chain": "sushiro",
@@ -2531,94 +1945,94 @@ window.SUSHI_MENU_DATA = {
       "calories": 115,
       "calorieText": "115kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0180-1c7kcpb"
+      "id": "sushiro-1l2254v"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "サイドメニュー",
       "name": "茶碗蒸し",
-      "priceText": "240円(税込)",
+      "priceText": "260円(税込)",
       "calories": 77,
       "calorieText": "77kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 2,
-      "id": "sushiro-0181-1naygmi"
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-1oirnmr"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "サイドメニュー",
       "name": "あんかけ茶碗蒸し",
-      "priceText": "250円(税込)",
+      "priceText": "270円(税込)",
       "calories": 82,
       "calorieText": "82kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 2,
-      "id": "sushiro-0182-azm8lt"
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-u62eaw"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "サイドメニュー",
-      "name": "店内仕込みのかき揚げ",
-      "priceText": "",
-      "calories": 98,
-      "calorieText": "98kcal",
+      "name": "冷製茶碗蒸し 梅みぞれあんかけ",
+      "priceText": "260円(税込)",
+      "calories": 84,
+      "calorieText": "84kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0183-g8mkbf"
+      "id": "sushiro-1ip4rw"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "サイドメニュー",
       "name": "モッツァレラチーズ天ぷら",
-      "priceText": "280円(税込)",
+      "priceText": "290円(税込)",
       "calories": 217,
       "calorieText": "217kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0184-acwc73"
+      "id": "sushiro-4w85nm"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "サイドメニュー",
       "name": "かぼちゃの天ぷら",
-      "priceText": "150円(税込)",
+      "priceText": "170円(税込)",
       "calories": 69,
       "calorieText": "69kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0185-l8mdi1"
+      "id": "sushiro-5c179j"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "サイドメニュー",
       "name": "フライドポテト",
-      "priceText": "150円(税込)",
+      "priceText": "180円(税込)",
       "calories": 186,
       "calorieText": "186kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0186-1bg5uqx"
+      "id": "sushiro-2c88id"
     },
     {
       "chain": "sushiro",
@@ -2629,10 +2043,24 @@ window.SUSHI_MENU_DATA = {
       "calories": 559,
       "calorieText": "559kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0187-enhecs"
+      "id": "sushiro-1l11kdu"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "サイドメニュー",
+      "name": "赤いかの唐揚げ",
+      "priceText": "360円(税込)",
+      "calories": 170,
+      "calorieText": "170kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-1a6s7w8"
     },
     {
       "chain": "sushiro",
@@ -2643,24 +2071,24 @@ window.SUSHI_MENU_DATA = {
       "calories": 240,
       "calorieText": "240kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0188-hkmum9"
+      "id": "sushiro-h4nwo4"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "サイドメニュー",
-      "name": "天ぷら盛り(上えび天)",
+      "name": "夏の山海の幸 天ぷら盛り（えび天）",
       "priceText": "430円(税込)",
-      "calories": 275,
-      "calorieText": "275kcal",
+      "calories": 263,
+      "calorieText": "263kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0189-a2e2yp"
+      "id": "sushiro-tnfh2b"
     },
     {
       "chain": "sushiro",
@@ -2671,10 +2099,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 47,
       "calorieText": "100mlあたり47kcal",
       "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0190-antbkw"
+      "id": "sushiro-1vh4skn"
     },
     {
       "chain": "sushiro",
@@ -2685,24 +2113,24 @@ window.SUSHI_MENU_DATA = {
       "calories": 47,
       "calorieText": "100mlあたり47kcal",
       "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0191-vhk52j"
+      "id": "sushiro-6xi0bo"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "ドリンク",
       "name": "生貯蔵酒",
-      "priceText": "480円(税込)",
+      "priceText": "520円(税込)",
       "calories": 89,
       "calorieText": "100mlあたり89kcal",
       "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0192-g4dtt1"
+      "id": "sushiro-kw4ry8"
     },
     {
       "chain": "sushiro",
@@ -2713,10 +2141,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 45,
       "calorieText": "100mlあたり45kcal",
       "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0193-5yh5ta"
+      "id": "sushiro-mw04jb"
     },
     {
       "chain": "sushiro",
@@ -2727,10 +2155,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 41,
       "calorieText": "100mlあたり41kcal",
       "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0194-1shclbx"
+      "id": "sushiro-1i4j8rw"
     },
     {
       "chain": "sushiro",
@@ -2741,10 +2169,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 47,
       "calorieText": "100mlあたり47kcal",
       "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0195-1ruac0o"
+      "id": "sushiro-8wpmqn"
     },
     {
       "chain": "sushiro",
@@ -2755,10 +2183,108 @@ window.SUSHI_MENU_DATA = {
       "calories": 0,
       "calorieText": "100mlあたり0kcal",
       "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0196-ppif37"
+      "id": "sushiro-1ai6o4x"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "ドリンク",
+      "name": "ペプシコーラ",
+      "priceText": "200円(税込)",
+      "calories": 48,
+      "calorieText": "100mlあたり48kcal",
+      "perUnit": true,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-v1gsan"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "ドリンク",
+      "name": "ポップメロンソーダ",
+      "priceText": "200円(税込)",
+      "calories": 48,
+      "calorieText": "100mlあたり48kcal",
+      "perUnit": true,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-pk0lik"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "ドリンク",
+      "name": "さわやか白ぶどう",
+      "priceText": "200円(税込)",
+      "calories": 37,
+      "calorieText": "100mlあたり37kcal",
+      "perUnit": true,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-10dph0o"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "ドリンク",
+      "name": "さわやか白ぶどうソーダ",
+      "priceText": "200円(税込)",
+      "calories": 37,
+      "calorieText": "100mlあたり37kcal",
+      "perUnit": true,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-mnz5ez"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "ドリンク",
+      "name": "ホワイトウォーター",
+      "priceText": "200円(税込)",
+      "calories": 52,
+      "calorieText": "100mlあたり52kcal",
+      "perUnit": true,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-rq24ip"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "ドリンク",
+      "name": "ホワイトソーダ",
+      "priceText": "200円(税込)",
+      "calories": 52,
+      "calorieText": "100mlあたり52kcal",
+      "perUnit": true,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-1lgwy9q"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "ドリンク",
+      "name": "ウーロン茶",
+      "priceText": "200円(税込)",
+      "calories": 1,
+      "calorieText": "100mlあたり1kcal",
+      "perUnit": true,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-13kvkh7"
     },
     {
       "chain": "sushiro",
@@ -2769,10 +2295,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 0,
       "calorieText": "100mlあたり0kcal",
       "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0197-1u2wftw"
+      "id": "sushiro-1jdoed8"
     },
     {
       "chain": "sushiro",
@@ -2783,10 +2309,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 0,
       "calorieText": "100mlあたり0kcal",
       "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0198-sjpmf1"
+      "id": "sushiro-z3wgzn"
     },
     {
       "chain": "sushiro",
@@ -2797,10 +2323,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 54,
       "calorieText": "100mlあたり54kcal",
       "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0199-1v11skq"
+      "id": "sushiro-xl0ogp"
     },
     {
       "chain": "sushiro",
@@ -2811,10 +2337,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 48,
       "calorieText": "100mlあたり48kcal",
       "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0200-1hjnkm6"
+      "id": "sushiro-eowtms"
     },
     {
       "chain": "sushiro",
@@ -2825,10 +2351,24 @@ window.SUSHI_MENU_DATA = {
       "calories": 200,
       "calorieText": "200kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0201-vcbgut"
+      "id": "sushiro-1l5wytw"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "ドリンク",
+      "name": "ポンジュース",
+      "priceText": "180円(税込)",
+      "calories": 65,
+      "calorieText": "65kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-1ykvh4h"
     },
     {
       "chain": "sushiro",
@@ -2839,10 +2379,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 39,
       "calorieText": "100mlあたり39kcal",
       "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0202-bnb3ye"
+      "id": "sushiro-1k5xx44"
     },
     {
       "chain": "sushiro",
@@ -2853,38 +2393,52 @@ window.SUSHI_MENU_DATA = {
       "calories": 43,
       "calorieText": "100mlあたり43kcal",
       "perUnit": true,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0203-5x24g3"
+      "id": "sushiro-6837cw"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "デザート",
       "name": "ストロベリーバニラパフェ",
-      "priceText": "300円(税込)",
+      "priceText": "330円(税込)",
       "calories": 222,
       "calorieText": "222kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0204-lxm1pc"
+      "id": "sushiro-91aq3z"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "デザート",
+      "name": "ショコラケーキリッチ",
+      "priceText": "280円(税込)",
+      "calories": 163,
+      "calorieText": "163kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-1pq8pvp"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "デザート",
       "name": "北海道ミルクレープメルバ",
-      "priceText": "270円(税込)",
+      "priceText": "280円(税込)",
       "calories": 197,
       "calorieText": "197kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0205-1sic52c"
+      "id": "sushiro-5n8rns"
     },
     {
       "chain": "sushiro",
@@ -2895,10 +2449,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 187,
       "calorieText": "187kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0206-c2na8l"
+      "id": "sushiro-15j61og"
     },
     {
       "chain": "sushiro",
@@ -2909,24 +2463,24 @@ window.SUSHI_MENU_DATA = {
       "calories": 103,
       "calorieText": "103kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0207-2znuwf"
+      "id": "sushiro-ze9rou"
     },
     {
       "chain": "sushiro",
       "chainLabel": "スシロー",
       "category": "デザート",
       "name": "カタラーナアイスブリュレ",
-      "priceText": "250円(税込)",
+      "priceText": "270円(税込)",
       "calories": 166,
       "calorieText": "166kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0208-181f1zg"
+      "id": "sushiro-fc9bk"
     },
     {
       "chain": "sushiro",
@@ -2937,10 +2491,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 194,
       "calorieText": "194kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0209-7zo8sn"
+      "id": "sushiro-1kimakq"
     },
     {
       "chain": "sushiro",
@@ -2951,10 +2505,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 197,
       "calorieText": "197kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0210-7g5b8b"
+      "id": "sushiro-tp0td9"
     },
     {
       "chain": "sushiro",
@@ -2965,10 +2519,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 165,
       "calorieText": "165kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0211-1t3ody3"
+      "id": "sushiro-pz35re"
     },
     {
       "chain": "sushiro",
@@ -2979,10 +2533,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 98,
       "calorieText": "98kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0212-1ifqdrd"
+      "id": "sushiro-1jzby0v"
     },
     {
       "chain": "sushiro",
@@ -2993,10 +2547,24 @@ window.SUSHI_MENU_DATA = {
       "calories": 59,
       "calorieText": "59kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0213-1t4grkw"
+      "id": "sushiro-4igtzt"
+    },
+    {
+      "chain": "sushiro",
+      "chainLabel": "スシロー",
+      "category": "デザート",
+      "name": "懐かしの赤肉メロンシャーベット",
+      "priceText": "130円(税込)",
+      "calories": 80,
+      "calorieText": "80kcal",
+      "perUnit": false,
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "sushiro-cj56of"
     },
     {
       "chain": "sushiro",
@@ -3007,10 +2575,10 @@ window.SUSHI_MENU_DATA = {
       "calories": 60,
       "calorieText": "60kcal",
       "perUnit": false,
-      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=1",
-      "capturedAt": "2026-06-18",
+      "sourceUrl": "https://www.akindo-sushiro.co.jp/menu/menu_detail/?s_id=449",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "sushiro-0214-r0k378"
+      "id": "sushiro-eqb199"
     },
     {
       "chain": "kura",
@@ -3020,11 +2588,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 82,
       "calorieText": "82kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0001-pkmnfq"
+      "id": "kura-1l7jk73"
     },
     {
       "chain": "kura",
@@ -3034,11 +2603,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 99,
       "calorieText": "99kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0002-gyoknq"
+      "id": "kura-4ducz7"
     },
     {
       "chain": "kura",
@@ -3048,11 +2618,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 79,
       "calorieText": "79kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0003-8nhjee"
+      "id": "kura-likdnh"
     },
     {
       "chain": "kura",
@@ -3062,11 +2633,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 68,
       "calorieText": "68kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0004-satrdj"
+      "id": "kura-1nro2i2"
     },
     {
       "chain": "kura",
@@ -3076,11 +2648,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 89,
       "calorieText": "89kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0005-y6o6qc"
+      "id": "kura-1m2wcds"
     },
     {
       "chain": "kura",
@@ -3090,11 +2663,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 93,
       "calorieText": "93kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0006-1b5v3gw"
+      "id": "kura-1yrwtf7"
     },
     {
       "chain": "kura",
@@ -3104,11 +2678,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 74,
       "calorieText": "74kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0007-1jmn1u0"
+      "id": "kura-wjez0s"
     },
     {
       "chain": "kura",
@@ -3118,11 +2693,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 78,
       "calorieText": "78kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0008-11adtnz"
+      "id": "kura-94yy43"
     },
     {
       "chain": "kura",
@@ -3132,11 +2708,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 75,
       "calorieText": "75kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0009-zaixoj"
+      "id": "kura-32xpqg"
     },
     {
       "chain": "kura",
@@ -3146,25 +2723,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 90,
       "calorieText": "90kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0010-1xy3t1k"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "にぎり",
-      "name": "ぶり塩麹",
-      "priceText": "115円",
-      "calories": 99,
-      "calorieText": "99kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0011-qk6aum"
+      "id": "kura-1i1igpq"
     },
     {
       "chain": "kura",
@@ -3174,25 +2738,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 125,
       "calorieText": "125kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0012-1o2a3vu"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "にぎり",
-      "name": "サーモンアボカドチーズ",
-      "priceText": "115円",
-      "calories": 116,
-      "calorieText": "116kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0013-1e6rwg5"
+      "id": "kura-10vx3vd"
     },
     {
       "chain": "kura",
@@ -3202,11 +2753,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 73,
       "calorieText": "73kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0014-m2ycjd"
+      "id": "kura-t8fsas"
     },
     {
       "chain": "kura",
@@ -3216,11 +2768,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 73,
       "calorieText": "73kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0015-lo9utt"
+      "id": "kura-y0dyn0"
     },
     {
       "chain": "kura",
@@ -3230,11 +2783,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 73,
       "calorieText": "73kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0016-179jkfh"
+      "id": "kura-s4g1oo"
     },
     {
       "chain": "kura",
@@ -3244,25 +2798,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 70,
       "calorieText": "70kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0017-1emf7hs"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "にぎり",
-      "name": "煮穴子にぎり",
-      "priceText": "115円",
-      "calories": 100,
-      "calorieText": "100kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0018-m9wrlu"
+      "id": "kura-tz5q7s"
     },
     {
       "chain": "kura",
@@ -3272,11 +2813,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 94,
       "calorieText": "94kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0019-1ij8zrl"
+      "id": "kura-gee24r"
     },
     {
       "chain": "kura",
@@ -3286,11 +2828,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 96,
       "calorieText": "96kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0020-12725we"
+      "id": "kura-ia3f2i"
     },
     {
       "chain": "kura",
@@ -3300,11 +2843,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 114,
       "calorieText": "114kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0021-havkw"
+      "id": "kura-dhfqfb"
     },
     {
       "chain": "kura",
@@ -3314,25 +2858,27 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 84,
       "calorieText": "84kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0022-uuthao"
+      "id": "kura-1aby0sb"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "にぎり",
-      "name": "燻製合鴨ロース",
+      "name": "旨だれ牛カルビ",
       "priceText": "115円",
-      "calories": 94,
-      "calorieText": "94kcal",
+      "calories": 102,
+      "calorieText": "102kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0023-qx168d"
+      "id": "kura-dmxc5j"
     },
     {
       "chain": "kura",
@@ -3342,25 +2888,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 111,
       "calorieText": "111kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0024-18brsx"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "にぎり",
-      "name": "イベリコ豚の大とろ",
-      "priceText": "115円",
-      "calories": 115,
-      "calorieText": "115kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0025-vvt3gd"
+      "id": "kura-1oyo10x"
     },
     {
       "chain": "kura",
@@ -3370,11 +2903,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "120円",
       "calories": 82,
       "calorieText": "82kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0026-hmabqi"
+      "id": "kura-jduccb"
     },
     {
       "chain": "kura",
@@ -3384,39 +2918,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "120円",
       "calories": 108,
       "calorieText": "108kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0027-ghclpc"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "にぎり",
-      "name": "甘えび",
-      "priceText": "120円",
-      "calories": 77,
-      "calorieText": "77kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0028-o809fv"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "にぎり",
-      "name": "姿いか",
-      "priceText": "130円",
-      "calories": 75,
-      "calorieText": "75kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0029-1vyfmqo"
+      "id": "kura-10dsurg"
     },
     {
       "chain": "kura",
@@ -3426,11 +2933,42 @@ window.SUSHI_MENU_DATA = {
       "priceText": "130円",
       "calories": 85,
       "calorieText": "85kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0030-7etyn2"
+      "id": "kura-16f3bjq"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "にぎり",
+      "name": "イベリコ豚の大とろ",
+      "priceText": "130円",
+      "calories": 115,
+      "calorieText": "115kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-p38zl5"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "にぎり",
+      "name": "あぶりえび明太チーズ",
+      "priceText": "140円",
+      "calories": 99,
+      "calorieText": "99kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-abov3p"
     },
     {
       "chain": "kura",
@@ -3440,11 +2978,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "140円",
       "calories": 83,
       "calorieText": "83kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0031-1s10au"
+      "id": "kura-12o99kk"
     },
     {
       "chain": "kura",
@@ -3454,11 +2993,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "160円",
       "calories": 118,
       "calorieText": "118kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0032-17572r4"
+      "id": "kura-1oa54ur"
     },
     {
       "chain": "kura",
@@ -3468,11 +3008,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "160円",
       "calories": 116,
       "calorieText": "116kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0033-1uxkqx2"
+      "id": "kura-1yu8lkv"
     },
     {
       "chain": "kura",
@@ -3482,11 +3023,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "160円",
       "calories": 118,
       "calorieText": "118kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0034-1p968of"
+      "id": "kura-kwqfqe"
     },
     {
       "chain": "kura",
@@ -3496,25 +3038,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "160円",
       "calories": 201,
       "calorieText": "201kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0035-12ew5gq"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "にぎり",
-      "name": "台湾ルーローハン",
-      "priceText": "180円",
-      "calories": 152,
-      "calorieText": "152kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0036-155ub9a"
+      "id": "kura-bsqrxk"
     },
     {
       "chain": "kura",
@@ -3524,11 +3053,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "180円",
       "calories": 186,
       "calorieText": "186kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0037-1fn4j0l"
+      "id": "kura-e6s37t"
     },
     {
       "chain": "kura",
@@ -3538,11 +3068,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "180円",
       "calories": 146,
       "calorieText": "146kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0038-1vy00w7"
+      "id": "kura-16xfl0v"
     },
     {
       "chain": "kura",
@@ -3552,11 +3083,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "180円",
       "calories": 97,
       "calorieText": "97kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0039-9dnzdu"
+      "id": "kura-bcor11"
     },
     {
       "chain": "kura",
@@ -3566,11 +3098,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "180円",
       "calories": 120,
       "calorieText": "120kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0040-1ndu1ze"
+      "id": "kura-1i5ipvc"
     },
     {
       "chain": "kura",
@@ -3580,11 +3113,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "180円",
       "calories": 135,
       "calorieText": "135kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0041-17rx9l0"
+      "id": "kura-cemjck"
     },
     {
       "chain": "kura",
@@ -3594,67 +3128,42 @@ window.SUSHI_MENU_DATA = {
       "priceText": "180円",
       "calories": 167,
       "calorieText": "167kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0042-x89ls0"
+      "id": "kura-1iku6d5"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "にぎり",
-      "name": "大葉えんがわ（かれい）（関西）",
+      "name": "大葉えんがわ（かれい）",
       "priceText": "180円",
       "calories": 94,
       "calorieText": "94kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0043-1986cn7"
+      "id": "kura-1bj5m9j"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "にぎり",
-      "name": "えんがわ（かれい）（関西）",
+      "name": "えんがわ（かれい）",
       "priceText": "180円",
       "calories": 94,
       "calorieText": "94kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0044-1ubvc2z"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "にぎり",
-      "name": "大葉えんがわ（かれい）（関東）",
-      "priceText": "180円",
-      "calories": 94,
-      "calorieText": "94kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0045-9wjmod"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "にぎり",
-      "name": "えんがわ（かれい）（関東）",
-      "priceText": "180円",
-      "calories": 94,
-      "calorieText": "94kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0046-1rbjnyd"
+      "id": "kura-rc4blr"
     },
     {
       "chain": "kura",
@@ -3664,11 +3173,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "180円",
       "calories": 71,
       "calorieText": "71kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0047-1q78uqf"
+      "id": "kura-1xmdzw8"
     },
     {
       "chain": "kura",
@@ -3678,11 +3188,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "180円",
       "calories": 71,
       "calorieText": "71kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0048-2mycjz"
+      "id": "kura-hzod1s"
     },
     {
       "chain": "kura",
@@ -3692,11 +3203,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "200円",
       "calories": 85,
       "calorieText": "85kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0049-3p3nxf"
+      "id": "kura-pn4r1j"
     },
     {
       "chain": "kura",
@@ -3706,11 +3218,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "200円",
       "calories": 91,
       "calorieText": "91kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0050-sfr3fo"
+      "id": "kura-8r8w2h"
     },
     {
       "chain": "kura",
@@ -3720,11 +3233,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "200円",
       "calories": 98,
       "calorieText": "98kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0051-dviczi"
+      "id": "kura-104ue1w"
     },
     {
       "chain": "kura",
@@ -3734,11 +3248,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "200円",
       "calories": 76,
       "calorieText": "76kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0052-1a168qq"
+      "id": "kura-8z0g7k"
     },
     {
       "chain": "kura",
@@ -3748,109 +3263,102 @@ window.SUSHI_MENU_DATA = {
       "priceText": "200円",
       "calories": 69,
       "calorieText": "69kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0053-1j6csng"
+      "id": "kura-5ir4di"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "にぎり",
-      "name": "北海道 サーモン",
+      "name": "北海道天然ぶり",
       "priceText": "270円",
-      "calories": 97,
-      "calorieText": "97kcal",
+      "calories": 111,
+      "calorieText": "111kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0054-1h9q195"
+      "id": "kura-1omvk4r"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "にぎり",
-      "name": "肉厚 赤貝",
-      "priceText": "270円",
-      "calories": 75,
-      "calorieText": "75kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0055-1y94tum"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "にぎり",
-      "name": "熟成 真鯛",
+      "name": "オーガニックはまち",
       "priceText": "300円",
-      "calories": 82,
-      "calorieText": "82kcal",
+      "calories": 101,
+      "calorieText": "101kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0056-1chxgvl"
+      "id": "kura-1wqz2us"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "にぎり",
-      "name": "アセロラぶりひら",
-      "priceText": "300円",
-      "calories": 104,
-      "calorieText": "104kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0057-18bkjgf"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "にぎり",
-      "name": "伏黒と釘崎のザクザク生姜焼き",
+      "name": "丸ずわいがに二種盛り",
       "priceText": "380円",
-      "calories": 151,
-      "calorieText": "151kcal",
+      "calories": 79,
+      "calorieText": "79kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0058-kfnfv2"
+      "id": "kura-1nbacgm"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "にぎり",
+      "name": "かに三種盛り",
+      "priceText": "420円",
+      "calories": 108,
+      "calorieText": "108kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-sxgvg1"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "にぎり一貫",
-      "name": "大切りとろ〆さば（一貫）",
+      "name": "超熟成 さより（一貫）",
       "priceText": "115円",
-      "calories": 69,
-      "calorieText": "69kcal",
+      "calories": 38,
+      "calorieText": "38kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0059-txhsit"
+      "id": "kura-o47xrm"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "にぎり一貫",
-      "name": "超熟成 真鯛(一貫)",
+      "name": "超熟成 あじ（一貫）",
       "priceText": "115円",
-      "calories": 43,
-      "calorieText": "43kcal",
+      "calories": 41,
+      "calorieText": "41kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0060-68cach"
+      "id": "kura-3e737b"
     },
     {
       "chain": "kura",
@@ -3860,11 +3368,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 49,
       "calorieText": "49kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0061-1fe3oim"
+      "id": "kura-1jb932u"
     },
     {
       "chain": "kura",
@@ -3874,11 +3383,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 36,
       "calorieText": "36kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0062-1xjqslu"
+      "id": "kura-1w180x0"
     },
     {
       "chain": "kura",
@@ -3888,11 +3398,27 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 39,
       "calorieText": "39kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0063-3diqe0"
+      "id": "kura-snc1pj"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "にぎり一貫",
+      "name": "大切りとろ〆さば（一貫）",
+      "priceText": "115円",
+      "calories": 69,
+      "calorieText": "69kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-1ferjjn"
     },
     {
       "chain": "kura",
@@ -3902,25 +3428,42 @@ window.SUSHI_MENU_DATA = {
       "priceText": "120円",
       "calories": 60,
       "calorieText": "60kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0064-1dijyfm"
+      "id": "kura-4tiec7"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "にぎり一貫",
-      "name": "アトランティック 生サーモン（一貫）",
-      "priceText": "160円",
-      "calories": 56,
-      "calorieText": "56kcal",
+      "name": "熟成 真鯛(一貫)",
+      "priceText": "140円",
+      "calories": 41,
+      "calorieText": "41kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0065-1djcpq9"
+      "id": "kura-1bf4eeg"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "にぎり一貫",
+      "name": "生サーモン(一貫)",
+      "priceText": "160円",
+      "calories": 49,
+      "calorieText": "49kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-1j3ytj8"
     },
     {
       "chain": "kura",
@@ -3930,11 +3473,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "180円",
       "calories": 46,
       "calorieText": "46kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0066-y1mxbj"
+      "id": "kura-6qhm6a"
     },
     {
       "chain": "kura",
@@ -3944,25 +3488,27 @@ window.SUSHI_MENU_DATA = {
       "priceText": "200円",
       "calories": 72,
       "calorieText": "72kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0067-u16diw"
+      "id": "kura-1xb061m"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "にぎり一貫",
-      "name": "大粒貝柱（一貫）",
+      "name": "大粒たいら貝(一貫)",
       "priceText": "270円",
       "calories": 51,
       "calorieText": "51kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0068-11jkbpr"
+      "id": "kura-esuzax"
     },
     {
       "chain": "kura",
@@ -3972,11 +3518,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "270円",
       "calories": 109,
       "calorieText": "109kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0069-raswul"
+      "id": "kura-upj0dq"
     },
     {
       "chain": "kura",
@@ -3986,39 +3533,57 @@ window.SUSHI_MENU_DATA = {
       "priceText": "270円",
       "calories": 64,
       "calorieText": "64kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0070-1m4wn6g"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "にぎり一貫",
-      "name": "国産牛のロッシーニ風 黒トリュフソース(一貫)",
-      "priceText": "380円",
-      "calories": 126,
-      "calorieText": "126kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0071-14cdw66"
+      "id": "kura-1lsw8pp"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "ぐんかん・細巻",
-      "name": "海鮮ユッケ",
-      "priceText": "115円",
-      "calories": 122,
-      "calorieText": "122kcal",
+      "name": "かに身軍艦（一貫）",
+      "priceText": "110円",
+      "calories": 45,
+      "calorieText": "45kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0072-o0i1lq"
+      "id": "kura-lkkeln"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "ぐんかん・細巻",
+      "name": "たこキムチ",
+      "priceText": "115円",
+      "calories": 91,
+      "calorieText": "91kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-8752bl"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "ぐんかん・細巻",
+      "name": "いかわさび漬け",
+      "priceText": "115円",
+      "calories": 94,
+      "calorieText": "94kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-1xm55oa"
     },
     {
       "chain": "kura",
@@ -4028,53 +3593,27 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 98,
       "calorieText": "98kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0073-8y10c9"
+      "id": "kura-1ldnzkf"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "ぐんかん・細巻",
-      "name": "たらマヨ",
+      "name": "海鮮ユッケ",
       "priceText": "115円",
-      "calories": 127,
-      "calorieText": "127kcal",
+      "calories": 122,
+      "calorieText": "122kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0074-gcg3le"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "ぐんかん・細巻",
-      "name": "まぐたく",
-      "priceText": "115円",
-      "calories": 98,
-      "calorieText": "98kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0075-ehcaz"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "ぐんかん・細巻",
-      "name": "かずのこ軍艦",
-      "priceText": "115円",
-      "calories": 94,
-      "calorieText": "94kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0076-14oysy2"
+      "id": "kura-eyi6oe"
     },
     {
       "chain": "kura",
@@ -4084,53 +3623,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 107,
       "calorieText": "107kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0077-yhj7wd"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "ぐんかん・細巻",
-      "name": "ふぐ皮ポン酢",
-      "priceText": "115円",
-      "calories": 87,
-      "calorieText": "87kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0078-5bxxqm"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "ぐんかん・細巻",
-      "name": "いかおくら",
-      "priceText": "115円",
-      "calories": 87,
-      "calorieText": "87kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0079-1sd0s9c"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "ぐんかん・細巻",
-      "name": "ほたてひもピリ辛わさび",
-      "priceText": "115円",
-      "calories": 88,
-      "calorieText": "88kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0080-kh6a5k"
+      "id": "kura-1iqr4ls"
     },
     {
       "chain": "kura",
@@ -4140,11 +3638,87 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 115,
       "calorieText": "115kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0081-6zrim6"
+      "id": "kura-1mqgy5w"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "ぐんかん・細巻",
+      "name": "まぐたく",
+      "priceText": "115円",
+      "calories": 98,
+      "calorieText": "98kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-1nbz5pd"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "ぐんかん・細巻",
+      "name": "たらマヨ",
+      "priceText": "115円",
+      "calories": 127,
+      "calorieText": "127kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-1o3j0ff"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "ぐんかん・細巻",
+      "name": "かずのこ軍艦",
+      "priceText": "115円",
+      "calories": 94,
+      "calorieText": "94kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-ncat4s"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "ぐんかん・細巻",
+      "name": "いかおくら",
+      "priceText": "115円",
+      "calories": 87,
+      "calorieText": "87kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-1cw5icm"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "ぐんかん・細巻",
+      "name": "ほたてひもピリ辛わさび",
+      "priceText": "115円",
+      "calories": 88,
+      "calorieText": "88kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-71mhd3"
     },
     {
       "chain": "kura",
@@ -4154,11 +3728,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 169,
       "calorieText": "169kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0082-1ls5v6s"
+      "id": "kura-1b9sgnf"
     },
     {
       "chain": "kura",
@@ -4168,11 +3743,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 139,
       "calorieText": "139kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0083-1vh174m"
+      "id": "kura-12pvd9u"
     },
     {
       "chain": "kura",
@@ -4182,11 +3758,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 116,
       "calorieText": "116kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0084-c1scad"
+      "id": "kura-1u8gwxm"
     },
     {
       "chain": "kura",
@@ -4196,11 +3773,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 182,
       "calorieText": "182kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0085-1fhc1q4"
+      "id": "kura-1vwoftm"
     },
     {
       "chain": "kura",
@@ -4210,11 +3788,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 178,
       "calorieText": "178kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0086-1pg8gtc"
+      "id": "kura-18nxov5"
     },
     {
       "chain": "kura",
@@ -4224,11 +3803,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 163,
       "calorieText": "163kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0087-w6dxai"
+      "id": "kura-1e2xnjv"
     },
     {
       "chain": "kura",
@@ -4238,11 +3818,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 141,
       "calorieText": "141kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0088-103wk57"
+      "id": "kura-1i4lvuc"
     },
     {
       "chain": "kura",
@@ -4252,11 +3833,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 59,
       "calorieText": "59kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0089-s8an4m"
+      "id": "kura-1mthikf"
     },
     {
       "chain": "kura",
@@ -4266,11 +3848,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 160,
       "calorieText": "160kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0090-1gihaqf"
+      "id": "kura-uo9h53"
     },
     {
       "chain": "kura",
@@ -4280,11 +3863,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 72,
       "calorieText": "72kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0091-13tglbn"
+      "id": "kura-hldb61"
     },
     {
       "chain": "kura",
@@ -4294,11 +3878,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 85,
       "calorieText": "85kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0092-8twj6o"
+      "id": "kura-khdyw0"
     },
     {
       "chain": "kura",
@@ -4308,11 +3893,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 120,
       "calorieText": "120kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0093-o9tzoi"
+      "id": "kura-8fk98g"
     },
     {
       "chain": "kura",
@@ -4322,25 +3908,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 141,
       "calorieText": "141kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0094-1sizl50"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "ぐんかん・細巻",
-      "name": "かんぴょう巻",
-      "priceText": "115円",
-      "calories": 149,
-      "calorieText": "149kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0095-gtkqio"
+      "id": "kura-1iqnpjh"
     },
     {
       "chain": "kura",
@@ -4350,11 +3923,27 @@ window.SUSHI_MENU_DATA = {
       "priceText": "115円",
       "calories": 117,
       "calorieText": "117kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0096-1kmsj7l"
+      "id": "kura-w78s4j"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "ぐんかん・細巻",
+      "name": "甘えびマヨ",
+      "priceText": "120円",
+      "calories": 111,
+      "calorieText": "111kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-1be4svw"
     },
     {
       "chain": "kura",
@@ -4364,11 +3953,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "130円",
       "calories": 144,
       "calorieText": "144kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0097-m6e4oi"
+      "id": "kura-qzzej6"
     },
     {
       "chain": "kura",
@@ -4378,11 +3968,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "130円",
       "calories": 155,
       "calorieText": "155kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0098-dfu6vw"
+      "id": "kura-1d7kza2"
     },
     {
       "chain": "kura",
@@ -4392,11 +3983,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "140円",
       "calories": 142,
       "calorieText": "142kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0099-3p99m2"
+      "id": "kura-c2fnb0"
     },
     {
       "chain": "kura",
@@ -4406,11 +3998,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "160円",
       "calories": 120,
       "calorieText": "120kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0100-8xcc6p"
+      "id": "kura-18ztbvx"
     },
     {
       "chain": "kura",
@@ -4420,11 +4013,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "160円",
       "calories": 86,
       "calorieText": "86kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0101-1we6qku"
+      "id": "kura-azkr23"
     },
     {
       "chain": "kura",
@@ -4434,11 +4028,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "160円",
       "calories": 129,
       "calorieText": "129kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0102-7wj9eh"
+      "id": "kura-1bb8cio"
     },
     {
       "chain": "kura",
@@ -4448,11 +4043,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "180円",
       "calories": 91,
       "calorieText": "91kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0103-12by71d"
+      "id": "kura-xjae5k"
     },
     {
       "chain": "kura",
@@ -4462,11 +4058,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "180円",
       "calories": 113,
       "calorieText": "113kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0104-1w8of1v"
+      "id": "kura-173dw09"
     },
     {
       "chain": "kura",
@@ -4476,25 +4073,27 @@ window.SUSHI_MENU_DATA = {
       "priceText": "200円",
       "calories": 136,
       "calorieText": "136kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0105-lztsna"
+      "id": "kura-lzu95"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "ぐんかん・細巻",
-      "name": "濃厚うに（一貫）",
-      "priceText": "230円",
-      "calories": 48,
-      "calorieText": "48kcal",
+      "name": "カンジャンケジャン",
+      "priceText": "200円",
+      "calories": 92,
+      "calorieText": "92kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0106-yspeeo"
+      "id": "kura-15uavvw"
     },
     {
       "chain": "kura",
@@ -4504,11 +4103,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "230円",
       "calories": 112,
       "calorieText": "112kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0107-18bmnbm"
+      "id": "kura-13a0ytr"
     },
     {
       "chain": "kura",
@@ -4518,11 +4118,27 @@ window.SUSHI_MENU_DATA = {
       "priceText": "250円",
       "calories": 93,
       "calorieText": "93kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0108-37wjw"
+      "id": "kura-fp2zc7"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "ぐんかん・細巻",
+      "name": "たらばがに軍艦",
+      "priceText": "380円",
+      "calories": 92,
+      "calorieText": "92kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-1e9bazp"
     },
     {
       "chain": "kura",
@@ -4532,11 +4148,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "1550円",
       "calories": 722,
       "calorieText": "722kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0109-153mxzs"
+      "id": "kura-13x5dle"
     },
     {
       "chain": "kura",
@@ -4546,11 +4163,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "900円",
       "calories": 532,
       "calorieText": "532kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0110-n3gf8o"
+      "id": "kura-8qn5vz"
     },
     {
       "chain": "kura",
@@ -4560,11 +4178,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "660円",
       "calories": 462,
       "calorieText": "462kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0111-1wmjxg4"
+      "id": "kura-1f8xla1"
     },
     {
       "chain": "kura",
@@ -4574,11 +4193,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "720円",
       "calories": 730,
       "calorieText": "730kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0112-urtf2n"
+      "id": "kura-1l3fx8y"
     },
     {
       "chain": "kura",
@@ -4588,11 +4208,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "790円",
       "calories": 263,
       "calorieText": "263kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0113-1pknlcj"
+      "id": "kura-1axi0br"
     },
     {
       "chain": "kura",
@@ -4602,11 +4223,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "540円",
       "calories": 286,
       "calorieText": "286kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0114-fktfl6"
+      "id": "kura-2p8zvj"
     },
     {
       "chain": "kura",
@@ -4616,11 +4238,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "480円",
       "calories": 259,
       "calorieText": "259kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0115-5xioyx"
+      "id": "kura-1nf0ilq"
     },
     {
       "chain": "kura",
@@ -4630,11 +4253,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "540円",
       "calories": 285,
       "calorieText": "285kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0116-z6ztns"
+      "id": "kura-1ro3xi2"
     },
     {
       "chain": "kura",
@@ -4644,39 +4268,42 @@ window.SUSHI_MENU_DATA = {
       "priceText": "480円",
       "calories": 258,
       "calorieText": "258kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0117-fza7qh"
+      "id": "kura-1l4co0j"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "サイドメニュー",
-      "name": "胡麻香る担々麺",
+      "name": "天然ふぐ出汁らーめん",
+      "priceText": "580円",
+      "calories": 235,
+      "calorieText": "235kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-1k01y2n"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "サイドメニュー",
+      "name": "スノーマウンテン旨辛冷麺",
       "priceText": "540円",
-      "calories": 423,
-      "calorieText": "423kcal",
+      "calories": 299,
+      "calorieText": "299kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0118-wnziup"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "サイドメニュー",
-      "name": "虎杖の麻辣汁なし担々麺",
-      "priceText": "600円",
-      "calories": 432,
-      "calorieText": "432kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0119-b4loav"
+      "id": "kura-jrybis"
     },
     {
       "chain": "kura",
@@ -4686,11 +4313,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "250円",
       "calories": 227,
       "calorieText": "227kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0120-1kf3gxv"
+      "id": "kura-s9zu8f"
     },
     {
       "chain": "kura",
@@ -4700,11 +4328,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "500円",
       "calories": 292,
       "calorieText": "292kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0121-11o1mlb"
+      "id": "kura-bz0gkb"
     },
     {
       "chain": "kura",
@@ -4714,53 +4343,42 @@ window.SUSHI_MENU_DATA = {
       "priceText": "530円",
       "calories": 274,
       "calorieText": "274kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0122-fbjua7"
+      "id": "kura-1586cin"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "サイドメニュー",
-      "name": "【讃岐】特製たまご醤油うどん",
-      "priceText": "360円",
-      "calories": 235,
-      "calorieText": "235kcal",
+      "name": "【讃岐】ちく天ぶっかけうどん",
+      "priceText": "580円",
+      "calories": 368,
+      "calorieText": "368kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0123-zhogxk"
+      "id": "kura-v4niol"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "サイドメニュー",
-      "name": "【讃岐】釜揚げうどん",
-      "priceText": "360円",
-      "calories": 236,
-      "calorieText": "236kcal",
+      "name": "【讃岐】釜玉うどん",
+      "priceText": "580円",
+      "calories": 281,
+      "calorieText": "281kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0124-1xhu80n"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "サイドメニュー",
-      "name": "宮崎牛ごぼ天うどん",
-      "priceText": "540円",
-      "calories": 349,
-      "calorieText": "349kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0125-13vhx6a"
+      "id": "kura-5yh0e"
     },
     {
       "chain": "kura",
@@ -4770,11 +4388,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "210円",
       "calories": 32,
       "calorieText": "32kcal",
+      "area": "関東・九州・北陸（富山県・石川県・福井県）",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0126-1t0fo5h"
+      "id": "kura-1dwulzj"
     },
     {
       "chain": "kura",
@@ -4784,11 +4403,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "210円",
       "calories": 43,
       "calorieText": "43kcal",
+      "area": "関西・中京・四国・中国（山口県を除く）",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0127-1d9nqw6"
+      "id": "kura-1fituc8"
     },
     {
       "chain": "kura",
@@ -4798,11 +4418,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "280円",
       "calories": 42,
       "calorieText": "42kcal",
+      "area": "関東・九州・北陸（富山県・石川県・福井県）",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0128-slm1g2"
+      "id": "kura-k6j34v"
     },
     {
       "chain": "kura",
@@ -4812,11 +4433,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "280円",
       "calories": 52,
       "calorieText": "52kcal",
+      "area": "関西・中京・四国・中国（山口県を除く）",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0129-19f32bs"
+      "id": "kura-1sg9r8o"
     },
     {
       "chain": "kura",
@@ -4826,11 +4448,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "280円",
       "calories": 51,
       "calorieText": "51kcal",
+      "area": "関東・九州・北陸（富山県・石川県・福井県）",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0130-1kbnkfk"
+      "id": "kura-18ubqtd"
     },
     {
       "chain": "kura",
@@ -4840,11 +4463,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "280円",
       "calories": 62,
       "calorieText": "62kcal",
+      "area": "関西・中京・四国・中国（山口県を除く）",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0131-pdgls5"
+      "id": "kura-952vii"
     },
     {
       "chain": "kura",
@@ -4854,11 +4478,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "170円",
       "calories": 20,
       "calorieText": "20kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0132-1q2yfbl"
+      "id": "kura-wag8c4"
     },
     {
       "chain": "kura",
@@ -4868,11 +4493,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "200円",
       "calories": 37,
       "calorieText": "37kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0133-8pgvze"
+      "id": "kura-1vm89ev"
     },
     {
       "chain": "kura",
@@ -4882,11 +4508,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "200円",
       "calories": 54,
       "calorieText": "54kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0134-1h4apjt"
+      "id": "kura-1yi717z"
     },
     {
       "chain": "kura",
@@ -4896,11 +4523,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "200円",
       "calories": 48,
       "calorieText": "48kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0135-bda3ul"
+      "id": "kura-1nzwz5y"
     },
     {
       "chain": "kura",
@@ -4910,109 +4538,147 @@ window.SUSHI_MENU_DATA = {
       "priceText": "250円",
       "calories": 67,
       "calorieText": "67kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0136-xqdn8l"
+      "id": "kura-5vhlz1"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "サイドメニュー",
-      "name": "トリュフクリーム茶碗蒸し",
+      "name": "特製かに茶碗蒸し",
       "priceText": "430円",
-      "calories": 132,
-      "calorieText": "132kcal",
+      "calories": 72,
+      "calorieText": "72kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0137-idjoav"
+      "id": "kura-19sp92f"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "サイドメニュー",
-      "name": "チョフテ",
+      "name": "ミートボール",
       "priceText": "240円",
-      "calories": 101,
-      "calorieText": "101kcal",
+      "calories": 196,
+      "calorieText": "196kcal",
+      "area": "西日本",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0138-1bgq8ed"
+      "id": "kura-9v4i4z"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "サイドメニュー",
-      "name": "ダウードバシャ",
+      "name": "ロパビエハ",
       "priceText": "240円",
-      "calories": 183,
-      "calorieText": "183kcal",
+      "calories": 49,
+      "calorieText": "49kcal",
+      "area": "九州",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0139-13fe68f"
+      "id": "kura-43ruyl"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "サイドメニュー",
-      "name": "ボクスティ",
-      "priceText": "240円",
-      "calories": 98,
-      "calorieText": "98kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0140-1cfuztm"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "サイドメニュー",
-      "name": "ハンバーガー",
-      "priceText": "240円",
-      "calories": 195,
-      "calorieText": "195kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0141-rkk4ez"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "サイドメニュー",
-      "name": "シャリ野菜 まぐろ",
-      "priceText": "120円",
-      "calories": 31,
-      "calorieText": "31kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0142-1wa2q4f"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "サイドメニュー",
-      "name": "シャリ野菜 サーモン",
+      "name": "夏野菜サラダ",
       "priceText": "120円",
       "calories": 36,
       "calorieText": "36kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0143-1vfx0f"
+      "id": "kura-1oknqm2"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "サイドメニュー",
+      "name": "キャベツ酢漬け",
+      "priceText": "120円",
+      "calories": 23,
+      "calorieText": "23kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-eawiep"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "サイドメニュー",
+      "name": "きんぴらごぼう",
+      "priceText": "120円",
+      "calories": 25,
+      "calorieText": "25kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-1cb8304"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "サイドメニュー",
+      "name": "冷製コーンポタージュ",
+      "priceText": "120円",
+      "calories": 31,
+      "calorieText": "31kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-j0d5y6"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "サイドメニュー",
+      "name": "黒ごま豆乳ぷりん",
+      "priceText": "120円",
+      "calories": 61,
+      "calorieText": "61kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-1j9j9l6"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "サイドメニュー",
+      "name": "海藻サラダ",
+      "priceText": "120円",
+      "calories": 13,
+      "calorieText": "13kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-1o2g42v"
     },
     {
       "chain": "kura",
@@ -5022,11 +4688,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "120円",
       "calories": 41,
       "calorieText": "41kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0144-1m7rp80"
+      "id": "kura-r55eio"
     },
     {
       "chain": "kura",
@@ -5036,53 +4703,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "120円",
       "calories": 36,
       "calorieText": "36kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0145-3efdhw"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "サイドメニュー",
-      "name": "海藻サラダ",
-      "priceText": "120円",
-      "calories": 8,
-      "calorieText": "8kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0146-1m6o4am"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "サイドメニュー",
-      "name": "ゆず白菜",
-      "priceText": "120円",
-      "calories": 15,
-      "calorieText": "15kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0147-12bs0jp"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "サイドメニュー",
-      "name": "かぼちゃとさつまいものマリネ",
-      "priceText": "120円",
-      "calories": 83,
-      "calorieText": "83kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0148-18zv88u"
+      "id": "kura-s8dqzi"
     },
     {
       "chain": "kura",
@@ -5092,11 +4718,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "120円",
       "calories": 10,
       "calorieText": "10kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0149-9lhz9a"
+      "id": "kura-ijxk90"
     },
     {
       "chain": "kura",
@@ -5106,53 +4733,42 @@ window.SUSHI_MENU_DATA = {
       "priceText": "120円",
       "calories": 68,
       "calorieText": "68kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0150-17u2a9y"
+      "id": "kura-1c6uwn7"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "サイドメニュー",
-      "name": "玉ねぎの冷製スープ",
+      "name": "シャリ野菜 まぐろ",
       "priceText": "120円",
-      "calories": 69,
-      "calorieText": "69kcal",
+      "calories": 31,
+      "calorieText": "31kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0151-zb3hzp"
+      "id": "kura-1qt9090"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "サイドメニュー",
-      "name": "食前酢 りんご",
+      "name": "シャリ野菜 サーモン",
       "priceText": "120円",
-      "calories": 24,
-      "calorieText": "24kcal",
+      "calories": 36,
+      "calorieText": "36kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0152-1anvbzp"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "サイドメニュー",
-      "name": "豆乳ぷりん（いちごソース）",
-      "priceText": "120円",
-      "calories": 39,
-      "calorieText": "39kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0153-1pzec7h"
+      "id": "kura-djw2k5"
     },
     {
       "chain": "kura",
@@ -5162,39 +4778,72 @@ window.SUSHI_MENU_DATA = {
       "priceText": "250円",
       "calories": 100,
       "calorieText": "100kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0154-1sjv7on"
+      "id": "kura-1jmqsdp"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "サイドメニュー",
       "name": "くらポテト",
-      "priceText": "460円",
-      "calories": 396,
-      "calorieText": "396kcal",
+      "priceText": "210円",
+      "calories": 211,
+      "calorieText": "211kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0155-xjk933"
+      "id": "kura-oxeody"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "サイドメニュー",
-      "name": "浜ちゃん愛しの酸辣湯ポテト",
-      "priceText": "500円",
+      "name": "くらポテト 濃厚チーズ",
+      "priceText": "280円",
       "calories": 241,
       "calorieText": "241kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0156-1jglttz"
+      "id": "kura-13andqs"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "サイドメニュー",
+      "name": "くらポテト メガ",
+      "priceText": "380円",
+      "calories": 422,
+      "calorieText": "422kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-yudqmn"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "サイドメニュー",
+      "name": "スヌーピーのミニピザまん（1個）",
+      "priceText": "250円",
+      "calories": 126,
+      "calorieText": "126kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-jadvey"
     },
     {
       "chain": "kura",
@@ -5204,25 +4853,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "170円",
       "calories": 149,
       "calorieText": "149kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0157-1nerfu9"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "サイドメニュー",
-      "name": "まぐろ竜田揚げ",
-      "priceText": "170円",
-      "calories": 131,
-      "calorieText": "131kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0158-duaq66"
+      "id": "kura-2n734e"
     },
     {
       "chain": "kura",
@@ -5232,11 +4868,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "190円",
       "calories": 103,
       "calorieText": "103kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0159-1mefi5f"
+      "id": "kura-ejdosy"
     },
     {
       "chain": "kura",
@@ -5246,53 +4883,72 @@ window.SUSHI_MENU_DATA = {
       "priceText": "190円",
       "calories": 194,
       "calorieText": "194kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0160-klt9tr"
+      "id": "kura-1fxbcsi"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "サイドメニュー",
-      "name": "明太揚げもち",
+      "name": "小海老唐揚げ",
+      "priceText": "200円",
+      "calories": 69,
+      "calorieText": "69kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-lnvwna"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "サイドメニュー",
+      "name": "トリュフコロッケ",
       "priceText": "250円",
-      "calories": 288,
-      "calorieText": "288kcal",
+      "calories": 245,
+      "calorieText": "245kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0161-1g75u5t"
+      "id": "kura-1ozvz0t"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "サイドメニュー",
-      "name": "なんこつ唐揚げ",
+      "name": "いか軟骨唐揚げ",
       "priceText": "280円",
-      "calories": 150,
-      "calorieText": "150kcal",
+      "calories": 145,
+      "calorieText": "145kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0162-1isgfps"
+      "id": "kura-1ug2c7x"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "サイドメニュー",
-      "name": "チキン南蛮",
-      "priceText": "400円",
-      "calories": 372,
-      "calorieText": "372kcal",
+      "name": "唐揚げスイートチリソース",
+      "priceText": "380円",
+      "calories": 231,
+      "calorieText": "231kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0163-1fhtbv8"
+      "id": "kura-jqhuun"
     },
     {
       "chain": "kura",
@@ -5302,11 +4958,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "630円",
       "calories": 160,
       "calorieText": "160kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0164-1xdodp3"
+      "id": "kura-1xzk7d3"
     },
     {
       "chain": "kura",
@@ -5316,11 +4973,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "630円",
       "calories": 156,
       "calorieText": "156kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0165-1qasrfi"
+      "id": "kura-wod8ur"
     },
     {
       "chain": "kura",
@@ -5330,11 +4988,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "500円",
       "calories": 27,
       "calorieText": "27kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0166-1kp5vyh"
+      "id": "kura-lxdubh"
     },
     {
       "chain": "kura",
@@ -5344,11 +5003,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "690円",
       "calories": 200,
       "calorieText": "200kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0167-1rohym4"
+      "id": "kura-1v3fdvn"
     },
     {
       "chain": "kura",
@@ -5358,11 +5018,27 @@ window.SUSHI_MENU_DATA = {
       "priceText": "780円",
       "calories": 184,
       "calorieText": "184kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0168-z3r1l5"
+      "id": "kura-1m58hlj"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "サイドメニュー",
+      "name": "獺祭 純米大吟醸45",
+      "priceText": "1280円",
+      "calories": 185,
+      "calorieText": "185kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-40x3ce"
     },
     {
       "chain": "kura",
@@ -5372,95 +5048,102 @@ window.SUSHI_MENU_DATA = {
       "priceText": "530円",
       "calories": 69,
       "calorieText": "69kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0169-8l9s9d"
+      "id": "kura-4bltan"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "デザート",
-      "name": "恋色ももタルト",
+      "name": "国産ダブルメロンショートケーキ",
+      "priceText": "650円",
+      "calories": 146,
+      "calorieText": "146kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-1zykqb"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "デザート",
+      "name": "スヌーピーのクッキー＆クリームチーズケーキ",
+      "priceText": "430円",
+      "calories": 145,
+      "calorieText": "145kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-181hsn3"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "デザート",
+      "name": "スヌーピーの仲良しコーラフロート",
       "priceText": "550円",
-      "calories": 323,
-      "calorieText": "323kcal",
+      "calories": 213,
+      "calorieText": "213kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0170-1e6yi8r"
+      "id": "kura-80ysmm"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "デザート",
-      "name": "七海と五条のスウィート＆ビターティラミス",
-      "priceText": "530円",
-      "calories": 254,
-      "calorieText": "254kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0171-ztl3m6"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "デザート",
-      "name": "ショコラドームケーキ",
-      "priceText": "350円",
-      "calories": 200,
-      "calorieText": "200kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0172-zu9mx3"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "デザート",
-      "name": "ヨアボ",
-      "priceText": "380円",
-      "calories": 138,
-      "calorieText": "138kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0173-1avxi8s"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "デザート",
-      "name": "絞りたてシュークリーム",
+      "name": "抹茶どら焼きパフェ",
       "priceText": "330円",
-      "calories": 227,
-      "calorieText": "227kcal",
+      "calories": 263,
+      "calorieText": "263kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0174-bv10j1"
+      "id": "kura-gi0kli"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "デザート",
-      "name": "バスクチーズケーキ",
-      "priceText": "330円",
-      "calories": 157,
-      "calorieText": "157kcal",
+      "name": "別腹ちょこっとトロピカルラムネパフェ",
+      "priceText": "310円",
+      "calories": 163,
+      "calorieText": "163kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0175-7mkb3c"
+      "id": "kura-1t0e3b1"
+    },
+    {
+      "chain": "kura",
+      "chainLabel": "くら寿司",
+      "category": "デザート",
+      "name": "マンゴー杏仁豆腐",
+      "priceText": "240円",
+      "calories": 127,
+      "calorieText": "127kcal",
+      "area": "全店舗",
+      "perUnit": false,
+      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
+      "capturedAt": "2026-07-30",
+      "duplicateCount": 1,
+      "id": "kura-l9hv28"
     },
     {
       "chain": "kura",
@@ -5470,39 +5153,27 @@ window.SUSHI_MENU_DATA = {
       "priceText": "240円",
       "calories": 197,
       "calorieText": "197kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0176-12u5hyj"
+      "id": "kura-1y58725"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "デザート",
-      "name": "ルカイマット",
+      "name": "アホ",
       "priceText": "240円",
-      "calories": 396,
-      "calorieText": "396kcal",
+      "calories": 139,
+      "calorieText": "139kcal",
+      "area": "西日本・九州",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0177-1g8vesb"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "デザート",
-      "name": "エッグタルト",
-      "priceText": "240円",
-      "calories": 171,
-      "calorieText": "171kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0178-19f0hwq"
+      "id": "kura-80tal6"
     },
     {
       "chain": "kura",
@@ -5512,11 +5183,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "220円",
       "calories": 43,
       "calorieText": "43kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0179-6m5bij"
+      "id": "kura-1qlna91"
     },
     {
       "chain": "kura",
@@ -5526,11 +5198,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "440円",
       "calories": 88,
       "calorieText": "88kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0180-1owc6kx"
+      "id": "kura-1ko7bja"
     },
     {
       "chain": "kura",
@@ -5540,25 +5213,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "330円",
       "calories": 272,
       "calorieText": "272kcal",
+      "area": "西日本・九州",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0181-1mcbgy"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "デザート",
-      "name": "ミルクレープ",
-      "priceText": "330円",
-      "calories": 230,
-      "calorieText": "230kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0182-hhrrg9"
+      "id": "kura-nwesqu"
     },
     {
       "chain": "kura",
@@ -5568,11 +5228,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "200円",
       "calories": 107,
       "calorieText": "107kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0183-1myi78n"
+      "id": "kura-1mfrkj6"
     },
     {
       "chain": "kura",
@@ -5582,11 +5243,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "200円",
       "calories": 81,
       "calorieText": "81kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0184-4jb5uu"
+      "id": "kura-10cbru"
     },
     {
       "chain": "kura",
@@ -5596,25 +5258,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "200円",
       "calories": 156,
       "calorieText": "156kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0185-pzhm9c"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "デザート",
-      "name": "昔ながらの塩豆大福",
-      "priceText": "115円",
-      "calories": 126,
-      "calorieText": "126kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0186-5868tp"
+      "id": "kura-17bskwl"
     },
     {
       "chain": "kura",
@@ -5624,11 +5273,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "140円",
       "calories": 138,
       "calorieText": "138kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0187-h4p2bc"
+      "id": "kura-1j8he05"
     },
     {
       "chain": "kura",
@@ -5638,11 +5288,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "140円",
       "calories": 168,
       "calorieText": "168kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0188-144wupd"
+      "id": "kura-ozkwq1"
     },
     {
       "chain": "kura",
@@ -5652,25 +5303,27 @@ window.SUSHI_MENU_DATA = {
       "priceText": "170円",
       "calories": 141,
       "calorieText": "141kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0189-eos39l"
+      "id": "kura-1wo25hq"
     },
     {
       "chain": "kura",
       "chainLabel": "くら寿司",
       "category": "デザート",
-      "name": "くらだんご あんこ",
-      "priceText": "200円",
-      "calories": 159,
-      "calorieText": "159kcal",
+      "name": "くらだんご 抹茶",
+      "priceText": "250円",
+      "calories": 178,
+      "calorieText": "178kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0190-bhzcza"
+      "id": "kura-1q8p19z"
     },
     {
       "chain": "kura",
@@ -5680,11 +5333,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "330円",
       "calories": 145,
       "calorieText": "145kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0191-c1gp0c"
+      "id": "kura-1leqokh"
     },
     {
       "chain": "kura",
@@ -5694,11 +5348,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "210円",
       "calories": 42,
       "calorieText": "42kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0192-g9hvq"
+      "id": "kura-1adqu4z"
     },
     {
       "chain": "kura",
@@ -5708,11 +5363,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "210円",
       "calories": 53,
       "calorieText": "53kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0193-sibvw4"
+      "id": "kura-15klotv"
     },
     {
       "chain": "kura",
@@ -5722,11 +5378,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "250円",
       "calories": 106,
       "calorieText": "106kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0194-12quvz9"
+      "id": "kura-14zhq9d"
     },
     {
       "chain": "kura",
@@ -5736,11 +5393,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "250円",
       "calories": 86,
       "calorieText": "86kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0195-j5v7py"
+      "id": "kura-nhetzn"
     },
     {
       "chain": "kura",
@@ -5750,11 +5408,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "250円",
       "calories": 89,
       "calorieText": "89kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0196-7hww5a"
+      "id": "kura-vzqnju"
     },
     {
       "chain": "kura",
@@ -5764,39 +5423,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "440円",
       "calories": 130,
       "calorieText": "130kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0197-exzxg5"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "デザート",
-      "name": "シャインマスカット・いちごグミ",
-      "priceText": "240円",
-      "calories": 143,
-      "calorieText": "143kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0198-r3yuu1"
-    },
-    {
-      "chain": "kura",
-      "chainLabel": "くら寿司",
-      "category": "デザート",
-      "name": "ぶどう・みかんグミ",
-      "priceText": "240円",
-      "calories": 143,
-      "calorieText": "143kcal",
-      "perUnit": false,
-      "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
-      "duplicateCount": 1,
-      "id": "kura-0199-36wank"
+      "id": "kura-kcqcje"
     },
     {
       "chain": "kura",
@@ -5806,11 +5438,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "190円",
       "calories": 63,
       "calorieText": "63kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0200-8vbcki"
+      "id": "kura-yvfbqu"
     },
     {
       "chain": "kura",
@@ -5820,11 +5453,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "250円",
       "calories": 108,
       "calorieText": "108kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0201-wy3f4k"
+      "id": "kura-1t3kfow"
     },
     {
       "chain": "kura",
@@ -5834,11 +5468,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "250円",
       "calories": 62,
       "calorieText": "62kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0202-1nygq6k"
+      "id": "kura-171wyj3"
     },
     {
       "chain": "kura",
@@ -5848,11 +5483,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "250円",
       "calories": 75,
       "calorieText": "75kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0203-dq1v03"
+      "id": "kura-x0wlyw"
     },
     {
       "chain": "kura",
@@ -5862,11 +5498,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "250円",
       "calories": 82,
       "calorieText": "82kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0204-1vi2r7z"
+      "id": "kura-xymh4q"
     },
     {
       "chain": "kura",
@@ -5876,11 +5513,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "170円",
       "calories": 3,
       "calorieText": "3kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0205-1huo0ga"
+      "id": "kura-1ano3q0"
     },
     {
       "chain": "kura",
@@ -5890,11 +5528,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "170円",
       "calories": 76,
       "calorieText": "76kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0206-67u5hk"
+      "id": "kura-v0prgm"
     },
     {
       "chain": "kura",
@@ -5904,11 +5543,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "190円",
       "calories": 28,
       "calorieText": "28kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0207-sdwjmc"
+      "id": "kura-1tcx369"
     },
     {
       "chain": "kura",
@@ -5918,11 +5558,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "190円",
       "calories": 36,
       "calorieText": "36kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0208-42vllk"
+      "id": "kura-120q80i"
     },
     {
       "chain": "kura",
@@ -5932,11 +5573,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "220円",
       "calories": 83,
       "calorieText": "83kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0209-yalee2"
+      "id": "kura-1hxwe8"
     },
     {
       "chain": "kura",
@@ -5946,11 +5588,12 @@ window.SUSHI_MENU_DATA = {
       "priceText": "220円",
       "calories": 92,
       "calorieText": "92kcal",
+      "area": "全店舗",
       "perUnit": false,
       "sourceUrl": "https://www.kurasushi.co.jp/menu/",
-      "capturedAt": "2026-06-18",
+      "capturedAt": "2026-07-30",
       "duplicateCount": 1,
-      "id": "kura-0210-1luvkyf"
+      "id": "kura-1xtikyb"
     }
   ]
 };

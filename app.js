@@ -1,3 +1,11 @@
+import {
+  changeUsage,
+  compareUsage,
+  emptyUsage,
+  sanitizeUsage,
+  usageCount,
+} from './preferences.mjs';
+
 const data = window.SUSHI_MENU_DATA || { stores: [], items: [] };
 
 const storeLabels = {
@@ -5,10 +13,16 @@ const storeLabels = {
   kura: 'くら寿司',
 };
 
-const quickWords = ['まぐろ', 'サーモン', 'いか', 'えび', 'たまご', 'はまち', '茶碗蒸し', 'ポテト'];
+const quickWords = ['まぐろ', 'サーモン', 'いか', 'えび', 'たまご', 'はまち', '茶碗蒸し'];
+const starterNames = {
+  sushiro: ['厳選まぐろ赤身', '生サーモン', 'いか', 'えび', 'たまご', '活〆はまち', '茶碗蒸し'],
+  kura: ['熟成まぐろ', 'サーモン', 'いか', 'えび', 'たまご焼き', 'はまち', '特製茶碗蒸し'],
+};
 const stateKey = 'sushi-kcal-state-v1';
+const usageKey = 'sushi-kcal-usage-v1';
 
 let state = loadState();
+let usage = loadUsage();
 let toastTimer = 0;
 
 const nodes = {
@@ -37,6 +51,7 @@ const nodes = {
 };
 
 const itemById = new Map(data.items.map((item) => [item.id, item]));
+pruneMissingCartItems();
 
 function loadState() {
   try {
@@ -56,6 +71,31 @@ function loadState() {
 
 function saveState() {
   localStorage.setItem(stateKey, JSON.stringify(state));
+}
+
+function loadUsage() {
+  try {
+    return sanitizeUsage(JSON.parse(localStorage.getItem(usageKey) || '{}'));
+  } catch {
+    return emptyUsage();
+  }
+}
+
+function saveUsage() {
+  localStorage.setItem(usageKey, JSON.stringify(usage));
+}
+
+function pruneMissingCartItems() {
+  let changed = false;
+  for (const store of ['sushiro', 'kura']) {
+    const current = state.carts[store];
+    const valid = current.filter((entry) => itemById.get(entry.id)?.chain === store);
+    if (valid.length !== current.length) {
+      state.carts[store] = valid;
+      changed = true;
+    }
+  }
+  if (changed) saveState();
 }
 
 function toHiragana(input) {
@@ -128,10 +168,14 @@ function chooseAnotherStore() {
 
 function addItem(id) {
   const cart = currentCart();
+  const item = itemById.get(id);
+  if (!item) return;
   const found = cart.find((entry) => entry.id === id);
   if (found) found.qty += 1;
   else cart.push({ id, qty: 1 });
+  changeUsage(usage, item, 1);
   saveState();
+  saveUsage();
   render();
   showToast('皿に追加しました');
 }
@@ -140,11 +184,15 @@ function updateQty(id, delta) {
   const cart = currentCart();
   const found = cart.find((entry) => entry.id === id);
   if (!found) return;
+  const item = itemById.get(id);
+  if (!item) return;
   found.qty += delta;
+  changeUsage(usage, item, delta);
   if (found.qty <= 0) {
     state.carts[state.store] = cart.filter((entry) => entry.id !== id);
   }
   saveState();
+  saveUsage();
   render();
 }
 
@@ -155,7 +203,7 @@ function clearCurrentCart() {
     render();
     return;
   }
-  if (!confirm(`${storeLabels[state.store]}の皿を空にしますか？`)) return;
+  if (!confirm(`${storeLabels[state.store]}の皿を空にしますか？\nよく食べる順の記録は残ります。`)) return;
   state.carts[state.store] = [];
   saveState();
   render();
@@ -165,12 +213,27 @@ function getResults() {
   if (!state.store) return [];
   const query = normalize(nodes.searchInput.value);
   const items = data.items.filter((item) => item.chain === state.store);
+  const starters = starterNames[state.store];
   const filtered = query
     ? items.filter((item) => searchable(item).includes(query))
-    : items.filter((item) => quickWords.some((word) => searchable(item).includes(normalize(word))));
+    : items.filter((item) => (
+      usageCount(usage, item) > 0
+      || starters.includes(item.name)
+    ));
 
   return filtered
     .sort((a, b) => {
+      const preferenceOrder = compareUsage(usage, a, b);
+      if (preferenceOrder !== 0) return preferenceOrder;
+      if (!query) {
+        const aStarterIndex = starters.indexOf(a.name);
+        const bStarterIndex = starters.indexOf(b.name);
+        const starterOrder = (
+          (aStarterIndex === -1 ? Number.MAX_SAFE_INTEGER : aStarterIndex)
+          - (bStarterIndex === -1 ? Number.MAX_SAFE_INTEGER : bStarterIndex)
+        );
+        if (starterOrder !== 0) return starterOrder;
+      }
       if (a.perUnit !== b.perUnit) return a.perUnit ? 1 : -1;
       if (a.category !== b.category) return a.category.localeCompare(b.category, 'ja');
       return a.name.localeCompare(b.name, 'ja');
@@ -210,7 +273,10 @@ function renderResults() {
   if (!state.store) return;
   const results = getResults();
   const query = nodes.searchInput.value.trim();
-  nodes.resultsTitle.textContent = query ? `候補 ${results.length}件` : 'よく使いそうな候補';
+  const hasHistory = results.some((item) => usageCount(usage, item) > 0);
+  nodes.resultsTitle.textContent = query
+    ? `候補 ${results.length}件`
+    : hasHistory ? 'よく食べる候補' : 'よく使いそうな候補';
   const store = data.stores.find((entry) => entry.id === state.store);
   nodes.dataFreshness.textContent = store ? `${store.capturedAt} 取得` : '';
 
@@ -225,7 +291,10 @@ function renderResults() {
       button.type = 'button';
       button.className = 'result-item';
       button.addEventListener('click', () => addItem(item.id));
-      const unitNote = item.perUnit ? '単位に注意' : item.category;
+      const count = usageCount(usage, item);
+      const unitNote = item.perUnit
+        ? '単位に注意'
+        : count > 0 ? `${count}回選択` : item.category;
       button.innerHTML = `
         <span>
           <span class="name-line">${escapeHtml(item.name)}</span>
