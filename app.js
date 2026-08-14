@@ -250,7 +250,7 @@ function renderMode() {
   nodes.clearButton.hidden = !hasStore;
   nodes.changeStoreButton.hidden = !hasStore;
   nodes.appTitle.textContent = hasStore ? storeLabels[state.store] : 'いらっしゃいませ!';
-  nodes.appKicker.textContent = hasStore ? 'MealTrackerに名前とkcalだけ転記' : 'すしkcal';
+  nodes.appKicker.textContent = hasStore ? 'MealTrackerに店名とkcalだけ転記' : 'すしkcal';
 }
 
 function renderChips() {
@@ -425,7 +425,7 @@ nodes.voiceClearButton.addEventListener('click', () => {
   nodes.searchInput.focus({ preventScroll: true });
 });
 nodes.clearButton.addEventListener('click', clearCurrentCart);
-nodes.copyNameButton.addEventListener('click', () => copyText(storeLabels[state.store], '名前'));
+nodes.copyNameButton.addEventListener('click', () => copyText(storeLabels[state.store], '店名'));
 nodes.copyCaloriesButton.addEventListener('click', () => copyText(String(Math.round(cartTotal())), 'カロリー'));
 nodes.copySummaryButton.addEventListener('click', () => {
   copyText(`${storeLabels[state.store]} ${Math.round(cartTotal())}kcal`, 'まとめ');
